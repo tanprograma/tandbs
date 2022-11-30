@@ -1,4 +1,70 @@
 {
-  "topics": [],
-  "questions": []
+  "topics": [
+    {
+      "name": "INFRARED SPECTROSCOPY",
+      "id": 1
+    }
+  ],
+  "questions": [
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 1,
+      "question": "what type of bond whether in organic or inorganic compounds absorbs infrared radiation?"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 2,
+      "question": "what is the range of vibrational portion of infrared spectrum?"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 3,
+      "question": "what are the units of measuring wavelength of radiation in the infrared range?"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 4,
+      "question": "visible light band"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 5,
+      "question": "ultraviolet band of radiation"
+    },
+    {
+      "topic": null,
+      "id": 6,
+      "question": "radiofrequency band that causes nucleaus to resonate (NMR)"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 7,
+      "question": "write the equation that links speed of waves and the frequency"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 8,
+      "question": "write the equation used in photoelectric emissions"
+    },
+    {
+      "topic": null,
+      "id": 9,
+      "question": "write the De broglie equation linking waves and particles"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 10,
+      "question": "a better unit for radiations is wavenumbers: how does it relate with energy? and why chemists prefers it over  wavelengths?"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 11,
+      "question": "explain the mechanism of infrared asorption by molecules and why symmetrical molecules cant absorb infrared radiation"
+    },
+    {
+      "topic": "INFRARED SPECTROSCOPY",
+      "id": 12,
+      "question": "what features of infrared molecules is useful for its two chief functions?"
+    }
+  ]
 }
