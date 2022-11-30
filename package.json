@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+    "pharmafy-server": "json-server --watch pharmafy.json --port 8000"
+  }
+}
