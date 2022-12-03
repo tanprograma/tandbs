@@ -7,64 +7,203 @@
   ],
   "questions": [
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 1,
-      "question": "what type of bond whether in organic or inorganic compounds absorbs infrared radiation?"
+      "type": "mcq",
+      "topic": "radiology",
+      "question": "select true/false",
+      "choices": [
+        {
+          "choice": "i am your mother"
+        },
+        {
+          "choice": "i am your father"
+        },
+        {
+          "choice": "i am your brother"
+        },
+        {
+          "choice": "i am your sister"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 2,
-      "question": "what is the range of vibrational portion of infrared spectrum?"
+      "topic": "radiology",
+      "type": "mmq",
+      "question": "select true/false",
+      "choices": [
+        {
+          "choice": "i am your mother"
+        },
+        {
+          "choice": "i am your father"
+        },
+        {
+          "choice": "i am your brother"
+        },
+        {
+          "choice": "i am your sister"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 3,
-      "question": "what are the units of measuring wavelength of radiation in the infrared range?"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select true/false",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 4,
-      "question": "visible light band"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 5,
-      "question": "ultraviolet band of radiation"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": null,
-      "id": 6,
-      "question": "radiofrequency band that causes nucleaus to resonate (NMR)"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 7,
-      "question": "write the equation that links speed of waves and the frequency"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 8,
-      "question": "write the equation used in photoelectric emissions"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": null,
-      "id": 9,
-      "question": "write the De broglie equation linking waves and particles"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 10,
-      "question": "a better unit for radiations is wavenumbers: how does it relate with energy? and why chemists prefers it over  wavelengths?"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 11,
-      "question": "explain the mechanism of infrared asorption by molecules and why symmetrical molecules cant absorb infrared radiation"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
     },
     {
-      "topic": "INFRARED SPECTROSCOPY",
-      "id": 12,
-      "question": "what features of infrared molecules is useful for its two chief functions?"
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
+    },
+    {
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
+    },
+    {
+      "topic": "radiology",
+      "type": "tf",
+      "question": "select what is right",
+      "choices": [
+        {
+          "choice": "true"
+        },
+        {
+          "choice": "false"
+        }
+      ]
+    },
+    {
+      "topic": "radiology",
+      "type": "dq",
+      "question": "discus why enemy get killed"
     }
   ]
 }
