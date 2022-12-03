@@ -1,13 +1,14 @@
 {
   "topics": [
     {
-      "name": "INFRARED SPECTROSCOPY",
+      "name": "radiology",
       "id": 1
     }
   ],
   "questions": [
     {
       "type": "mcq",
+      "id": 1,
       "topic": "radiology",
       "question": "select true/false",
       "choices": [
@@ -26,6 +27,7 @@
       ]
     },
     {
+      "id": 2,
       "topic": "radiology",
       "type": "mmq",
       "question": "select true/false",
@@ -45,6 +47,7 @@
       ]
     },
     {
+      "id": 3,
       "topic": "radiology",
       "type": "tf",
       "question": "select true/false",
@@ -58,6 +61,7 @@
       ]
     },
     {
+      "id": 3,
       "topic": "radiology",
       "type": "tf",
       "question": "select what is right",
@@ -71,6 +75,7 @@
       ]
     },
     {
+      "id": 4,
       "topic": "radiology",
       "type": "tf",
       "question": "select what is right",
@@ -84,6 +89,7 @@
       ]
     },
     {
+      "id": 5,
       "topic": "radiology",
       "type": "tf",
       "question": "select what is right",
@@ -97,6 +103,7 @@
       ]
     },
     {
+      "id": 6,
       "topic": "radiology",
       "type": "tf",
       "question": "select what is right",
@@ -108,102 +115,6 @@
           "choice": "false"
         }
       ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "topic": "radiology",
-      "type": "dq",
-      "question": "discus why enemy get killed"
     }
   ]
 }
