@@ -1,5 +1,35 @@
 {
-  "topics": [],
+  "topics": [
+    {
+      "name": "pharmacology:ntroduction",
+      "id": 1
+    },
+    {
+      "name": "pharmacokinetics",
+      "id": 2
+    },
+    {
+      "name": "pharmacodynamics",
+      "id": 3
+    },
+
+    {
+      "name": "drug biotransformation",
+      "id": 5
+    },
+    {
+      "name": "drug rational dosing",
+      "id": 6
+    },
+    {
+      "name": "pharmacogenomics",
+      "id": 7
+    },
+    {
+      "name": "autonomic drugs",
+      "id": 8
+    }
+  ],
   "formats": [
     {
       "id": 1,
