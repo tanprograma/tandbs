@@ -1,120 +1,22 @@
 {
-  "topics": [
+  "topics": [],
+  "formats": [
     {
-      "name": "radiology",
-      "id": 1
-    }
-  ],
-  "questions": [
-    {
-      "type": "mcq",
       "id": 1,
-      "topic": "radiology",
-      "question": "select true/false",
-      "choices": [
-        {
-          "choice": "i am your mother"
-        },
-        {
-          "choice": "i am your father"
-        },
-        {
-          "choice": "i am your brother"
-        },
-        {
-          "choice": "i am your sister"
-        }
-      ]
+      "format": "mcq"
     },
     {
       "id": 2,
-      "topic": "radiology",
-      "type": "mmq",
-      "question": "select true/false",
-      "choices": [
-        {
-          "choice": "i am your mother"
-        },
-        {
-          "choice": "i am your father"
-        },
-        {
-          "choice": "i am your brother"
-        },
-        {
-          "choice": "i am your sister"
-        }
-      ]
+      "format": "mmq"
     },
     {
       "id": 3,
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select true/false",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
+      "format": "tf"
     },
     {
       "id": 4,
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "topic": "radiology",
-      "type": "tf",
-      "question": "select what is right",
-      "choices": [
-        {
-          "choice": "true"
-        },
-        {
-          "choice": "false"
-        }
-      ]
+      "format": "dq"
     }
-  ]
+  ],
+  "questions": []
 }
