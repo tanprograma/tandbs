@@ -1,7 +1,7 @@
 {
   "topics": [
     {
-      "name": "pharmacology:ntroduction",
+      "name": "pharmacology intro",
       "id": 1
     },
     {
@@ -12,22 +12,73 @@
       "name": "pharmacodynamics",
       "id": 3
     },
-
     {
-      "name": "drug biotransformation",
+      "name": "biotransformation",
+      "id": 4
+    },
+    {
+      "name": "pharmacogenetics",
       "id": 5
     },
     {
-      "name": "drug rational dosing",
+      "name": "autonomic drugs",
       "id": 6
     },
     {
-      "name": "pharmacogenomics",
+      "name": "smooth muscle",
       "id": 7
     },
     {
-      "name": "autonomic drugs",
+      "name": "cns drugs",
       "id": 8
+    },
+    {
+      "name": "blood inflammation and gout",
+      "id": 9
+    },
+    {
+      "name": "endocrine",
+      "id": 10
+    },
+    {
+      "name": "chemotherapeutic",
+      "id": 11
+    },
+    {
+      "name": "toxicology",
+      "id": 12
+    },
+    {
+      "name": "perinatal and paediatrics",
+      "id": 13
+    },
+    {
+      "name": "geriatrics",
+      "id": 14
+    },
+    {
+      "name": "gastrointestinal",
+      "id": 15
+    },
+    {
+      "name": "dermatologic",
+      "id": 16
+    },
+    {
+      "name": "over the counter",
+      "id": 17
+    },
+    {
+      "name": "dietary supplements",
+      "id": 18
+    },
+    {
+      "name": "rational prescribing",
+      "id": 19
+    },
+    {
+      "name": "drug interactions",
+      "id": 20
     }
   ],
   "formats": [
