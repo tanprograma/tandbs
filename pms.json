@@ -1,0 +1,2692 @@
+{
+  "medicines": [
+    {
+      "medicine": "relcer gel",
+      "id": 1
+    },
+    {
+      "medicine": "pantoprazole 40mg tabs",
+      "id": 2
+    },
+    {
+      "medicine": "azithromycin 500mg",
+      "id": 3
+    },
+    {
+      "medicine": "paracetamol 500mg",
+      "id": 4
+    },
+    {
+      "medicine": "betamethasone cream",
+      "id": 5
+    },
+    {
+      "medicine": "diclofenac 50mg",
+      "id": 6
+    },
+    {
+      "medicine": "diclofenac 75mg",
+      "id": 7
+    },
+    {
+      "medicine": "diclofenac gel",
+      "id": 8
+    },
+    {
+      "medicine": "flamar",
+      "id": 9
+    },
+    {
+      "medicine": "tizanidine 4mg",
+      "id": 10
+    },
+    {
+      "medicine": "pregabalin 75mg",
+      "id": 11
+    },
+    {
+      "medicine": "meloxicam 15mg",
+      "id": 12
+    },
+    {
+      "medicine": "ibuprofen 200mg",
+      "id": 13
+    },
+    {
+      "medicine": "flucamox caps",
+      "id": 14
+    },
+    {
+      "medicine": "cefixime 200mg",
+      "id": 15
+    },
+    {
+      "medicine": "doxycycline 100mg",
+      "id": 16
+    },
+    {
+      "medicine": "clarithromycin 500mg",
+      "id": 17
+    },
+    {
+      "medicine": "ciprofloxacin 500mg",
+      "id": 18
+    },
+    {
+      "medicine": "nitrofurantoin 100mg",
+      "id": 19
+    },
+    {
+      "medicine": "amoxiclav 625mg",
+      "id": 20
+    },
+    {
+      "medicine": "funbact-a cream",
+      "id": 21
+    },
+    {
+      "medicine": "clotrimazole cream",
+      "id": 22
+    },
+    {
+      "medicine": "fluconazole 150mg caps",
+      "id": 23
+    },
+    {
+      "medicine": "griseofulvin 500mg tab",
+      "id": 24
+    },
+    {
+      "medicine": "zecuf lozenges",
+      "id": 25
+    },
+    {
+      "medicine": "cetirizine 10mg tab",
+      "id": 26
+    },
+    {
+      "medicine": "toff-plus",
+      "id": 27
+    },
+    {
+      "medicine": "cough syrup",
+      "id": 28
+    },
+    {
+      "medicine": "vitamin b-complex tab",
+      "id": 29
+    },
+    {
+      "medicine": "vitamin b-complex injection",
+      "id": 30
+    },
+    {
+      "medicine": "ascorbic acid",
+      "id": 31
+    },
+    {
+      "medicine": "carofit",
+      "id": 32
+    },
+    {
+      "medicine": "neurosupport",
+      "id": 33
+    },
+    {
+      "medicine": "jointsupport",
+      "id": 34
+    },
+    {
+      "medicine": "hydrocortisone cream",
+      "id": 35
+    },
+    {
+      "medicine": "hydrocortisone 100mg",
+      "id": 36
+    },
+    {
+      "medicine": "cerumol drops",
+      "id": 37
+    },
+    {
+      "medicine": "dexamethasone drops",
+      "id": 38
+    },
+    {
+      "medicine": "dexaneo drops",
+      "id": 39
+    },
+    {
+      "medicine": "medioral",
+      "id": 40
+    },
+    {
+      "medicine": "hydrogen peroxide 3%",
+      "id": 41
+    },
+    {
+      "medicine": "hydrogen peroxide 6%",
+      "id": 42
+    },
+    {
+      "medicine": "ferrous-folic",
+      "id": 43
+    },
+    {
+      "medicine": "folic acid",
+      "id": 44
+    },
+    {
+      "medicine": "chloramphenicol drops",
+      "id": 45
+    },
+    {
+      "medicine": "amlodipine 10mg",
+      "id": 46
+    },
+    {
+      "medicine": "captopril 25mg",
+      "id": 47
+    },
+    {
+      "medicine": "nifedipine 20mg",
+      "id": 48
+    },
+    {
+      "medicine": "lisinopril 10mg",
+      "id": 49
+    },
+    {
+      "medicine": "metformin 500mg",
+      "id": 50
+    },
+    {
+      "medicine": "bendroflumethiazide 5mg",
+      "id": 51
+    },
+    {
+      "medicine": "furosemide 40mg",
+      "id": 52
+    },
+    {
+      "medicine": "furosemide 40mg injection",
+      "id": 53
+    },
+    {
+      "medicine": "tetanus vaccine",
+      "id": 54
+    },
+    {
+      "medicine": "boric acid drops",
+      "id": 55
+    },
+    {
+      "medicine": "oral rehydration salt",
+      "id": 56
+    },
+    {
+      "medicine": "norfloxacin-tinidazole",
+      "id": 57
+    },
+    {
+      "medicine": "loperamide",
+      "id": 58
+    },
+    {
+      "medicine": "ceftriaxone 1g",
+      "id": 59
+    },
+    {
+      "medicine": "albendazole 400mg",
+      "id": 60
+    },
+    {
+      "medicine": "bisacodyl 5mg",
+      "id": 61
+    },
+    {
+      "medicine": "lactulose solution",
+      "id": 62
+    },
+    {
+      "medicine": "hyoscine 10mg tab",
+      "id": 63
+    },
+    {
+      "medicine": "hyoscine injection",
+      "id": 64
+    },
+    {
+      "medicine": "benzathine penicillin",
+      "id": 65
+    },
+    {
+      "medicine": "miconazole oral gel",
+      "id": 66
+    },
+    {
+      "medicine": "acyclovir 200mg tabs",
+      "id": 67
+    },
+    {
+      "medicine": "predinisolone",
+      "id": 68
+    },
+    {
+      "medicine": "aspirin 75mg",
+      "id": 69
+    },
+    {
+      "medicine": "rosuvastatin 10mg",
+      "id": 70
+    },
+    {
+      "medicine": "magnesium tabs",
+      "id": 71
+    },
+    {
+      "medicine": "quadragel",
+      "id": 72
+    },
+    {
+      "medicine": "paracetamol 1g injection",
+      "id": 73
+    },
+    {
+      "medicine": "normal saline",
+      "id": 74
+    },
+    {
+      "medicine": "clotrimazole pessaries",
+      "id": 75
+    },
+    {
+      "medicine": "heligokit",
+      "id": 76
+    },
+    {
+      "medicine": "ondansetron 8mg injection",
+      "id": 77
+    }
+  ],
+  "dispensed": [
+    {
+      "date": "12/8/2022",
+      "id": 1,
+      "medications": [
+        {
+          "medicine": "tetanus vaccine",
+          "quantity": 1
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 2,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 3,
+      "medications": [
+        {
+          "medicine": "clarithromycin 500mg",
+          "quantity": 7
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 4,
+      "medications": [
+        {
+          "medicine": "tetanus vaccine",
+          "quantity": 1
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 5,
+      "medications": [
+        {
+          "medicine": "neurosupport",
+          "quantity": 10
+        },
+        {
+          "medicine": "meloxicam 15mg",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 6,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "vitamin b-complex tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 7,
+      "medications": [
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 8,
+      "medications": [
+        {
+          "medicine": "boric acid drops",
+          "quantity": 1
+        },
+        {
+          "medicine": "flucamox caps",
+          "quantity": 16
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 9,
+      "medications": [
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "dexamethasone drops",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 10,
+      "medications": [
+        {
+          "medicine": "relcer gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "amlodipine 10mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "bendroflumethiazide 5mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 11,
+      "medications": [
+        {
+          "medicine": "betamethasone cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 12,
+      "medications": [
+        {
+          "medicine": "relcer gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 6
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 13,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 14,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 15,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 8
+        },
+        {
+          "medicine": "oral rehydration salt",
+          "quantity": 2
+        },
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "loperamide",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 16,
+      "medications": [
+        {
+          "medicine": "cough syrup",
+          "quantity": 1
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 17,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 18,
+      "medications": [
+        {
+          "medicine": "doxycycline 100mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 19,
+      "medications": [
+        {
+          "medicine": "doxycycline 100mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 20,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 21,
+      "medications": [
+        {
+          "medicine": "nifedipine 20mg",
+          "quantity": 1
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 20
+        },
+        {
+          "medicine": "clarithromycin 500mg",
+          "quantity": 5
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 22,
+      "medications": [
+        {
+          "medicine": "ceftriaxone 1g",
+          "quantity": 2
+        },
+        {
+          "medicine": "ciprofloxacin 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 23,
+      "medications": [
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 24,
+      "medications": [
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 25,
+      "medications": [
+        {
+          "medicine": "cefixime 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 26,
+      "medications": [
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 8
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 27,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 28,
+      "medications": [
+        {
+          "medicine": "hydrocortisone cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 29,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 30,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 31,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 32,
+      "medications": [
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 33,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "dexamethasone drops",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 34,
+      "medications": [
+        {
+          "medicine": "cough syrup",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "flucamox caps",
+          "quantity": 16
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 35,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/8/2022",
+      "id": 36,
+      "medications": [
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 37,
+      "medications": [
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 38,
+      "medications": [
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 39,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 40,
+      "medications": [
+        {
+          "medicine": "bisacodyl 5mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 41,
+      "medications": [
+        {
+          "medicine": "tetanus vaccine",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 42,
+      "medications": [
+        {
+          "medicine": "relcer gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 43,
+      "medications": [
+        {
+          "medicine": "neurosupport",
+          "quantity": 15
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "jointsupport",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 44,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 45,
+      "medications": [
+        {
+          "medicine": "doxycycline 100mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "cefixime 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ceftriaxone 1g",
+          "quantity": 2
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 46,
+      "medications": [
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 47,
+      "medications": [
+        {
+          "medicine": "cough syrup",
+          "quantity": 1
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 48,
+      "medications": [
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 49,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 50,
+      "medications": [
+        {
+          "medicine": "relcer gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 51,
+      "medications": [
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 52,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 53,
+      "medications": [
+        {
+          "medicine": "hydrogen peroxide 3%",
+          "quantity": 1
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 54,
+      "medications": [
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 55,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "pregabalin 75mg",
+          "quantity": 7
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 56,
+      "medications": [
+        {
+          "medicine": "lactulose solution",
+          "quantity": 1
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 57,
+      "medications": [
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 20
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 58,
+      "medications": [
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 59,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        },
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        },
+        {
+          "medicine": "hydrocortisone cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 60,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 61,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 62,
+      "medications": [
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "dexamethasone drops",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 63,
+      "medications": [
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 64,
+      "medications": [
+        {
+          "medicine": "flucamox caps",
+          "quantity": 16
+        },
+        {
+          "medicine": "miconazole oral gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "fluconazole 150mg caps",
+          "quantity": 5
+        },
+        {
+          "medicine": "acyclovir 200mg tabs",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 65,
+      "medications": [
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 6
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 6
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 66,
+      "medications": [
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 67,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ceftriaxone 1g",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 68,
+      "medications": [
+        {
+          "medicine": "relcer gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "pantoprazole 40mg tabs",
+          "quantity": 0
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 69,
+      "medications": [
+        {
+          "medicine": "metformin 500mg",
+          "quantity": 40
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 70,
+      "medications": [
+        {
+          "medicine": "vitamin b-complex tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 71,
+      "medications": [
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 72,
+      "medications": [
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        },
+        {
+          "medicine": "hydrogen peroxide 3%",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 73,
+      "medications": [
+        {
+          "medicine": "hydrocortisone 100mg",
+          "quantity": 2
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 74,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 75,
+      "medications": [
+        {
+          "medicine": "meloxicam 15mg",
+          "quantity": 5
+        },
+        {
+          "medicine": "vitamin b-complex tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 76,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 77,
+      "medications": [
+        {
+          "medicine": "cough syrup",
+          "quantity": 1
+        },
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 78,
+      "medications": [
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 79,
+      "medications": [
+        {
+          "medicine": "fluconazole 150mg caps",
+          "quantity": 5
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 80,
+      "medications": [
+        {
+          "medicine": "relcer gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 81,
+      "medications": [
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 82,
+      "medications": [
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 83,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "predinisolone",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 84,
+      "medications": [
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 85,
+      "medications": [
+        {
+          "medicine": "tetanus vaccine",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "flucamox caps",
+          "quantity": 16
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 86,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 87,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 88,
+      "medications": [
+        {
+          "medicine": "vitamin b-complex tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 89,
+      "medications": [
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 8
+        },
+        {
+          "medicine": "hydrogen peroxide 3%",
+          "quantity": 1
+        },
+        {
+          "medicine": "vitamin b-complex tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 90,
+      "medications": [
+        {
+          "medicine": "nifedipine 20mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 91,
+      "medications": [
+        {
+          "medicine": "hydrogen peroxide 3%",
+          "quantity": 1
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 92,
+      "medications": [
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 93,
+      "medications": [
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 94,
+      "medications": [
+        {
+          "medicine": "acyclovir 200mg tabs",
+          "quantity": 20
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 95,
+      "medications": [
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 96,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 97,
+      "medications": [
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 98,
+      "medications": [
+        {
+          "medicine": "aspirin 75mg",
+          "quantity": 30
+        },
+        {
+          "medicine": "rosuvastatin 10mg",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 99,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 100,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "tetanus vaccine",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 101,
+      "medications": [
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 102,
+      "medications": [
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 103,
+      "medications": [
+        {
+          "medicine": "magnesium tabs",
+          "quantity": 10
+        },
+        {
+          "medicine": "lactulose solution",
+          "quantity": 1
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 104,
+      "medications": [
+        {
+          "medicine": "neurosupport",
+          "quantity": 10
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 105,
+      "medications": [
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "cough syrup",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 106,
+      "medications": [
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 107,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "jointsupport",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 108,
+      "medications": [
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 109,
+      "medications": [
+        {
+          "medicine": "quadragel",
+          "quantity": 1
+        },
+        {
+          "medicine": "hydrogen peroxide 3%",
+          "quantity": 1
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        },
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 110,
+      "medications": [
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 10
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 111,
+      "medications": [
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 112,
+      "medications": [
+        {
+          "medicine": "loperamide",
+          "quantity": 5
+        },
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "oral rehydration salt",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 113,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "cetirizine 10mg tab",
+          "quantity": 5
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 114,
+      "medications": [
+        {
+          "medicine": "normal saline",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 1g injection",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 115,
+      "medications": [
+        {
+          "medicine": "clotrimazole pessaries",
+          "quantity": 1
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 116,
+      "medications": [
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "meloxicam 15mg",
+          "quantity": 5
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 8
+        },
+        {
+          "medicine": "albendazole 400mg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 117,
+      "medications": [
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "loperamide",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 118,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 119,
+      "medications": [
+        {
+          "medicine": "pregabalin 75mg",
+          "quantity": 5
+        },
+        {
+          "medicine": "neurosupport",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 120,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 121,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 15
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 40
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 122,
+      "medications": [
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 123,
+      "medications": [
+        {
+          "medicine": "ciprofloxacin 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        },
+        {
+          "medicine": "miconazole oral gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 124,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 125,
+      "medications": [
+        {
+          "medicine": "dexaneo drops",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 126,
+      "medications": [
+        {
+          "medicine": "bisacodyl 5mg",
+          "quantity": 5
+        },
+        {
+          "medicine": "griseofulvin 500mg tab",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 127,
+      "medications": [
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 128,
+      "medications": [
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 129,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 130,
+      "medications": [
+        {
+          "medicine": "tizanidine 4mg",
+          "quantity": 5
+        },
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        },
+        {
+          "medicine": "diclofenac gel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 131,
+      "medications": [
+        {
+          "medicine": "magnesium tabs",
+          "quantity": 20
+        },
+        {
+          "medicine": "flucamox caps",
+          "quantity": 16
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 132,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 133,
+      "medications": [
+        {
+          "medicine": "cough syrup",
+          "quantity": 1
+        },
+        {
+          "medicine": "azithromycin 500mg",
+          "quantity": 3
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 134,
+      "medications": [
+        {
+          "medicine": "normal saline",
+          "quantity": 2
+        },
+        {
+          "medicine": "ondansetron 8mg injection",
+          "quantity": 1
+        },
+        {
+          "medicine": "vitamin b-complex injection",
+          "quantity": 1
+        },
+        {
+          "medicine": "loperamide",
+          "quantity": 2
+        },
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "oral rehydration salt",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 135,
+      "medications": [
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "oral rehydration salt",
+          "quantity": 2
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "loperamide",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 136,
+      "medications": [
+        {
+          "medicine": "hyoscine 10mg tab",
+          "quantity": 10
+        },
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 137,
+      "medications": [
+        {
+          "medicine": "flucamox caps",
+          "quantity": 16
+        },
+        {
+          "medicine": "diclofenac 50mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 138,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 139,
+      "medications": [
+        {
+          "medicine": "funbact-a cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 140,
+      "medications": [
+        {
+          "medicine": "miconazole oral gel",
+          "quantity": 1
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "tetanus vaccine",
+          "quantity": 1
+        },
+        {
+          "medicine": "clotrimazole cream",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 141,
+      "medications": [
+        {
+          "medicine": "amoxiclav 625mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 142,
+      "medications": [
+        {
+          "medicine": "flamar",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 143,
+      "medications": [
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        },
+        {
+          "medicine": "lactulose solution",
+          "quantity": 1
+        },
+        {
+          "medicine": "bisacodyl 5mg",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 144,
+      "medications": [
+        {
+          "medicine": "clarithromycin 500mg",
+          "quantity": 7
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "zecuf lozenges",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 145,
+      "medications": [
+        {
+          "medicine": "hydrogen peroxide 3%",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol 500mg",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 146,
+      "medications": [
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        },
+        {
+          "medicine": "ascorbic acid",
+          "quantity": 0
+        },
+        {
+          "medicine": "carofit",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "date": "12/9/2022",
+      "id": 147,
+      "medications": [
+        {
+          "medicine": "toff-plus",
+          "quantity": 10
+        },
+        {
+          "medicine": "norfloxacin-tinidazole",
+          "quantity": 10
+        },
+        {
+          "medicine": "ibuprofen 200mg",
+          "quantity": 10
+        }
+      ]
+    }
+  ]
+}

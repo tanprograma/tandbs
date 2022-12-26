@@ -99,5 +99,232 @@
       "format": "dq"
     }
   ],
+  "drugs": [
+    {
+      "drgclass": "Analgesics",
+      "id": 1,
+      "drug": "paracetamol"
+    },
+    {
+      "drgclass": "Analgesics",
+      "id": 2,
+      "drug": "diclofenac"
+    },
+    {
+      "drgclass": "Analgesics",
+      "id": 3,
+      "drug": "ketoprofen"
+    }
+  ],
+  "drgclass": [
+    {
+      "id": 1,
+      "class": "Analgesics"
+    },
+    {
+      "id": 2,
+      "class": "Antiparkinson agents"
+    },
+    {
+      "id": 3,
+      "class": "Hormonal agents (pituitary)"
+    },
+    {
+      "id": 4,
+      "class": "Anesthetics"
+    },
+    {
+      "id": 5,
+      "class": "Antipsychotics"
+    },
+    {
+      "id": 6,
+      "class": "Hormonal agents (prostaglandins)"
+    },
+    {
+      "id": 7,
+      "class": "Anti-addiction agents"
+    },
+    {
+      "id": 8,
+      "class": "Antispasticity agents"
+    },
+    {
+      "id": 9,
+      "class": "Hormonal agents (sex hormones)"
+    },
+    {
+      "id": 10,
+      "class": "Antibacterials"
+    },
+    {
+      "id": 11,
+      "class": "Antivirals"
+    },
+    {
+      "id": 12,
+      "class": "Hormonal agents (thyroid)"
+    },
+    {
+      "id": 13,
+      "class": "Anticonvulsants"
+    },
+    {
+      "id": 14,
+      "class": "Anxiolytics"
+    },
+    {
+      "id": 15,
+      "class": "Hormone suppressant (adrenal)"
+    },
+    {
+      "id": 16,
+      "class": "Antidementia agents"
+    },
+    {
+      "id": 17,
+      "class": "Bipolar agents"
+    },
+    {
+      "id": 18,
+      "class": "Hormone suppressant (pituitary)"
+    },
+    {
+      "id": 19,
+      "class": "Antidepressants"
+    },
+    {
+      "id": 20,
+      "class": "Blood glucose regulators"
+    },
+    {
+      "id": 21,
+      "class": "Hormone suppressant (thyroid)"
+    },
+    {
+      "id": 22,
+      "class": "Blood products"
+    },
+    {
+      "id": 23,
+      "class": "Immunological agents"
+    },
+    {
+      "id": 24,
+      "class": "Cardiovascular agents"
+    },
+    {
+      "id": 25,
+      "class": "Infertility agents"
+    },
+    {
+      "id": 26,
+      "class": "Antigout agents"
+    },
+    {
+      "id": 27,
+      "class": "Central nervous system agents"
+    },
+    {
+      "id": 28,
+      "class": "Inflammatory bowel disease agents"
+    },
+    {
+      "id": 29,
+      "class": "Anti-inflammatories"
+    },
+    {
+      "id": 30,
+      "class": "Contraceptives"
+    },
+    {
+      "id": 31,
+      "class": "Metabolic bone disease agents"
+    },
+    {
+      "id": 32,
+      "class": "Antimigraine agents"
+    },
+    {
+      "id": 33,
+      "class": "Dental and oral agents"
+    },
+    {
+      "id": 34,
+      "class": "Ophthalmic agents"
+    },
+    {
+      "id": 35,
+      "class": "Antimyasthenic agents"
+    },
+    {
+      "id": 36,
+      "class": "Dermatological agents"
+    },
+    {
+      "id": 37,
+      "class": "Otic agents"
+    },
+    {
+      "id": 38,
+      "class": "Antimycobacterials"
+    },
+    {
+      "id": 39,
+      "class": "Electrolytes"
+    },
+    {
+      "id": 40,
+      "class": "minerals"
+    },
+    {
+      "id": 41,
+      "class": "metals"
+    },
+    {
+      "id": 42,
+      "class": "vitamins"
+    },
+    {
+      "id": 43,
+      "class": "Respiratory tract agents"
+    },
+    {
+      "id": 44,
+      "class": "Antineoplastics"
+    },
+    {
+      "id": 45,
+      "class": "Gastrointestinal agents"
+    },
+    {
+      "id": 46,
+      "class": "Sexual disorder agents"
+    },
+    {
+      "id": 47,
+      "class": "Anti-obesity agents"
+    },
+    {
+      "id": 48,
+      "class": "Genitourinary agents"
+    },
+    {
+      "id": 49,
+      "class": "Skeletal muscle relaxants"
+    },
+    {
+      "id": 50,
+      "class": "Antiparasitics"
+    },
+    {
+      "id": 51,
+      "class": "Hormonal agents (adrenal)"
+    },
+    {
+      "id": 52,
+      "class": "Sleep disorder agents"
+    }
+  ],
   "questions": []
 }

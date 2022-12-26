@@ -1,0 +1,242 @@
+{
+  "commodities": [
+    {
+      "commodity": "cetirizine 10mg tabs",
+      "id": 1
+    },
+    {
+      "commodity": "loratadine 10mg tabs",
+      "id": 2
+    },
+    {
+      "commodity": "paracetamol 500mg tabs",
+      "id": 3
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "store": "main clinic"
+    },
+    {
+      "id": 2,
+      "store": "saddledam clinic"
+    },
+    {
+      "id": 3,
+      "store": "rightbank clinic"
+    },
+    {
+      "id": 4,
+      "store": "powerhouse clinic"
+    },
+    {
+      "store": "material-control",
+      "id": 5
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "name": "kija"
+    }
+  ],
+  "orders": [
+    {
+      "commodities": [
+        {
+          "commodity": "cetirizine 10mg tabs",
+          "quantity": 10
+        },
+        {
+          "commodity": "paracetamol 500mg tabs",
+          "quantity": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "commodities": [
+        {
+          "commodity": "cetirizine 10mg tabs",
+          "quantity": 90
+        }
+      ],
+      "id": 2
+    },
+    {
+      "commodities": [
+        {
+          "commodity": "loratadine 10mg tabs",
+          "quantity": 20
+        },
+        {
+          "commodity": "cetirizine 10mg tabs",
+          "quantity": 40
+        },
+        {
+          "commodity": "paracetamol 500mg tabs",
+          "quantity": 70
+        },
+        {
+          "commodity": "loratadine 10mg tabs",
+          "quantity": 50
+        },
+        {
+          "commodity": "cetirizine 10mg tabs",
+          "quantity": 98
+        }
+      ],
+      "id": 3
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 40
+        }
+      ],
+      "id": 4
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 3,
+          "quantity": 90
+        }
+      ],
+      "id": 5
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 80
+        },
+        {
+          "commodity": 2,
+          "quantity": 90
+        }
+      ],
+      "id": 6
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 20
+        },
+        {
+          "commodity": 2,
+          "quantity": 10
+        },
+        {
+          "commodity": 3,
+          "quantity": 80
+        }
+      ],
+      "date": "12/11/2022",
+      "from": "main clinic",
+      "to": "mohamud abdi",
+      "voucher": "dispense",
+      "id": 7
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 60
+        }
+      ],
+      "date": "12/11/2022",
+      "from": "main clinic",
+      "to": "paulo ngwani",
+      "voucher": "dispense",
+      "id": 8
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 10
+        },
+        {
+          "commodity": 2,
+          "quantity": 90
+        },
+        {
+          "commodity": 3,
+          "quantity": 90
+        }
+      ],
+      "date": "12/11/2022",
+      "from": "main clinic",
+      "to": "willow smith",
+      "voucher": "dispense",
+      "id": 9
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 90
+        },
+        {
+          "commodity": 3,
+          "quantity": 200
+        }
+      ],
+      "date": "12/11/2022",
+      "from": "main clinic",
+      "to": "saddledam clinic",
+      "voucher": "transfer",
+      "id": 10
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 2,
+          "quantity": 40
+        },
+        {
+          "commodity": 3,
+          "quantity": 20
+        }
+      ],
+      "date": "12/11/2022",
+      "from": "saddledam clinic",
+      "to": "mohammed arjuna",
+      "voucher": "dispense",
+      "id": 11
+    },
+    {
+      "commodities": [
+        {
+          "commodity": 1,
+          "quantity": 20
+        },
+        {
+          "commodity": 2,
+          "quantity": 90
+        },
+        {
+          "commodity": 3,
+          "quantity": 40
+        },
+        {
+          "commodity": 2,
+          "quantity": 300
+        },
+        {
+          "commodity": 1,
+          "quantity": 800
+        }
+      ],
+      "date": "12/11/2022",
+      "from": "material-control",
+      "to": "main clinic",
+      "voucher": "transfer",
+      "id": 12
+    }
+  ]
+}

@@ -3,6 +3,8 @@
     "json-server": "^0.17.1"
   },
   "scripts": {
-    "pharmafy-server": "json-server --watch pharmafy.json --port 8000"
+    "pharmafy-server": "json-server --watch pharmafy.json --port 8000",
+    "pms-server": "json-server --watch pms.json --port 5000",
+    "x-server": "json-server --watch xpms.json --port 3000"
   }
 }

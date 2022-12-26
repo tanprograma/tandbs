@@ -1,0 +1,258 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "store": "main clinic"
+    },
+    {
+      "id": 2,
+      "store": "saddle dam"
+    },
+    {
+      "id": 3,
+      "store": "rightbank clinic"
+    },
+    {
+      "id": 4,
+      "store": "powerhouse clinic"
+    },
+    {
+      "id": 5,
+      "store": "material control"
+    }
+  ],
+  "commodities": [
+    {
+      "commodity": "paracetamol",
+      "id": 1
+    },
+    {
+      "commodity": "zecuf",
+      "id": 2
+    },
+    {
+      "commodity": "azithromycin",
+      "id": 3
+    },
+    {
+      "commodity": "ceftriaxone",
+      "id": 4
+    }
+  ],
+  "inventory": [
+    {
+      "commodity": "paracetamol",
+      "beggining": 1000,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 1
+    },
+    {
+      "commodity": "zecuf",
+      "beggining": 1000,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 2
+    },
+    {
+      "commodity": "azithromycin",
+      "beggining": 1000,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 3
+    },
+    {
+      "commodity": "ceftriaxone",
+      "beggining": 1000,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 4
+    },
+    {
+      "commodity": "ceftriaxone",
+      "beggining": 90,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 5
+    },
+    {
+      "commodity": "zecuf",
+      "beggining": 90,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 6
+    },
+    {
+      "commodity": "ceftriaxone",
+      "beggining": 90,
+      "store": "main clinic",
+      "issue": [],
+      "receive": [],
+      "dispense": [],
+      "id": 7
+    }
+  ],
+  "requests": [
+    {
+      "processed": false,
+      "destination": "main clinic",
+      "date": "12/18/2022",
+      "host": "main clinic",
+      "medications": [
+        {
+          "medicine": "ceftriaxone",
+          "quantity": 2
+        },
+        {
+          "medicine": "azithromycin",
+          "quantity": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "processed": false,
+      "destination": "main clinic",
+      "date": "12/18/2022",
+      "host": "rightbank clinic",
+      "medications": [
+        {
+          "medicine": "paracetamol",
+          "quantity": 90
+        },
+        {
+          "medicine": "ceftriaxone",
+          "quantity": 90
+        },
+        {
+          "medicine": "zecuf",
+          "quantity": 200
+        },
+        {
+          "medicine": "ceftriaxone",
+          "quantity": 600
+        },
+        {
+          "medicine": "azithromycin",
+          "quantity": 3000
+        }
+      ],
+      "id": 2
+    },
+    {
+      "processed": false,
+      "destination": "main clinic",
+      "date": "12/19/2022",
+      "host": "rightbank clinic",
+      "medications": [
+        {
+          "medicine": "paracetamol",
+          "quantity": 10
+        },
+        {
+          "medicine": "azithromycin",
+          "quantity": 10
+        },
+        {
+          "medicine": "ceftriaxone",
+          "quantity": 10
+        },
+        {
+          "medicine": "paracetamol",
+          "quantity": 10
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "dispense": [
+    {
+      "host": "main clinic",
+      "date": "12/18/2022",
+      "client": "kija mnada",
+      "medications": [
+        {
+          "medicine": "azithromycin",
+          "quantity": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "host": "main clinic",
+      "date": "12/18/2022",
+      "client": "hero",
+      "medications": [
+        {
+          "medicine": "azithromycin",
+          "quantity": 3
+        },
+        {
+          "medicine": "ceftriaxone",
+          "quantity": 1
+        },
+        {
+          "medicine": "paracetamol",
+          "quantity": 10
+        }
+      ],
+      "id": 2
+    },
+    {
+      "date": "12/25/2022",
+      "client": "kija mnada",
+      "medications": [
+        {
+          "medicine": "paracetamol",
+          "quantity": 3
+        },
+        {
+          "medicine": "zecuf",
+          "quantity": 6
+        }
+      ],
+      "host": "main clinic",
+      "id": 3
+    },
+    {
+      "date": "12/25/2022",
+      "client": "kija mnada",
+      "medications": [
+        {
+          "medicine": "paracetamol",
+          "quantity": 900
+        }
+      ],
+      "host": "main clinic",
+      "id": 4
+    },
+    {
+      "date": "12/26/2022",
+      "client": "kija mnada",
+      "medications": [
+        {
+          "medicine": "paracetamol",
+          "quantity": 5
+        },
+        {
+          "medicine": "azithromycin",
+          "quantity": 6
+        }
+      ],
+      "host": "main clinic",
+      "id": 5
+    }
+  ]
+}
