@@ -1,0 +1,432 @@
+[
+  { "_id": "639392e6bbc48a0ef6d2b9f3", "medicine": "relcer gel", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2b9f5", "medicine": "flamar", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2b9fb",
+    "medicine": "pregabalin 75mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2b9fd",
+    "medicine": "azithromycin 500mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2b9ff", "medicine": "meloxicam 15mg", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba01",
+    "medicine": "pantoprazole 40mg tabs",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2b9f7", "medicine": "tizanidine 4mg", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2b9f9",
+    "medicine": "diclofenac 75mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba07",
+    "medicine": "betamethasone cream",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba09",
+    "medicine": "diclofenac 50mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba0b", "medicine": "flucamox caps", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba0d", "medicine": "diclofenac gel", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba03",
+    "medicine": "paracetamol 500mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba05",
+    "medicine": "ibuprofen 200mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba0f", "medicine": "cefixime 200mg", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba11",
+    "medicine": "doxycycline 100mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba13",
+    "medicine": "clarithromycin 500mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba15",
+    "medicine": "ciprofloxacin 500mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba17",
+    "medicine": "nitrofurantoin 100mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba19",
+    "medicine": "amoxiclav 625mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba1b",
+    "medicine": "funbact-a cream",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba1d",
+    "medicine": "clotrimazole cream",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba1f",
+    "medicine": "fluconazole 150mg caps",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba21",
+    "medicine": "griseofulvin 500mg tab",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba23", "medicine": "zecuf lozenges", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba25",
+    "medicine": "cetirizine 10mg tab",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba27", "medicine": "toff-plus", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba29", "medicine": "cough syrup", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba2b",
+    "medicine": "vitamin b-complex tab",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba2d",
+    "medicine": "vitamin b-complex injection",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba2f", "medicine": "ascorbic acid", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba31", "medicine": "carofit", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba33", "medicine": "neurosupport", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba35", "medicine": "jointsupport", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba37",
+    "medicine": "hydrocortisone cream",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba39",
+    "medicine": "hydrocortisone 100mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba3b", "medicine": "cerumol drops", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba3d",
+    "medicine": "dexamethasone drops",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba3f", "medicine": "dexaneo drops", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba41", "medicine": "medioral", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba43",
+    "medicine": "hydrogen peroxide 3%",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba45",
+    "medicine": "hydrogen peroxide 6%",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba47", "medicine": "ferrous-folic", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba49", "medicine": "folic acid", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba4b",
+    "medicine": "chloramphenicol drops",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba4d",
+    "medicine": "amlodipine 10mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba4f", "medicine": "captopril 25mg", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba51",
+    "medicine": "nifedipine 20mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba53",
+    "medicine": "lisinopril 10mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba55",
+    "medicine": "metformin 500mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba57",
+    "medicine": "bendroflumethiazide 5mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba59",
+    "medicine": "furosemide 40mg",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba5b",
+    "medicine": "furosemide 40mg injection",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba5d",
+    "medicine": "tetanus vaccine",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba5f",
+    "medicine": "boric acid drops",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba61",
+    "medicine": "oral rehydration salt",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba63",
+    "medicine": "norfloxacin-tinidazole",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba65", "medicine": "loperamide", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba67", "medicine": "ceftriaxone 1g", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba69",
+    "medicine": "albendazole 400mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba6b", "medicine": "bisacodyl 5mg", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba6d",
+    "medicine": "lactulose solution",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba6f",
+    "medicine": "hyoscine 10mg tab",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba71",
+    "medicine": "hyoscine injection",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba73",
+    "medicine": "benzathine penicillin",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba75",
+    "medicine": "miconazole oral gel",
+    "__v": 0
+  },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba77",
+    "medicine": "acyclovir 200mg tabs",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba79", "medicine": "predinisolone", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba7b", "medicine": "aspirin 75mg", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba7d",
+    "medicine": "rosuvastatin 10mg",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba7f", "medicine": "magnesium tabs", "__v": 0 },
+  { "_id": "639392e6bbc48a0ef6d2ba81", "medicine": "quadragel", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba83",
+    "medicine": "paracetamol 1g injection",
+    "__v": 0
+  },
+  { "_id": "639392e6bbc48a0ef6d2ba85", "medicine": "normal saline", "__v": 0 },
+  {
+    "_id": "639392e6bbc48a0ef6d2ba87",
+    "medicine": "clotrimazole pessaries",
+    "__v": 0
+  },
+  { "_id": "639392e7bbc48a0ef6d2ba89", "medicine": "heligokit", "__v": 0 },
+  {
+    "_id": "639392e7bbc48a0ef6d2ba8b",
+    "medicine": "ondansetron 8mg injection",
+    "__v": 0
+  },
+  { "_id": "6393a355481828b563ed1918", "medicine": "crepe bandage", "__v": 0 },
+  {
+    "_id": "6393a3ce481828b563ed1a92",
+    "medicine": "atorvastatin 20mg",
+    "__v": 0
+  },
+  {
+    "_id": "6394234d7684fd0c5a2bd377",
+    "medicine": "fluticasone spray",
+    "__v": 0
+  },
+  { "_id": "639430ad7684fd0c5a2bd972", "medicine": "losartan 50mg", "__v": 0 },
+  {
+    "_id": "639431897684fd0c5a2bd97d",
+    "medicine": "ciprofloxacin 200mg inj",
+    "__v": 0
+  },
+  {
+    "_id": "639431a77684fd0c5a2bd97f",
+    "medicine": "metronidazole 200mg",
+    "__v": 0
+  },
+  {
+    "_id": "639431bc7684fd0c5a2bd981",
+    "medicine": "metronidazole 500mg inj",
+    "__v": 0
+  },
+  {
+    "_id": "639431ef7684fd0c5a2bd983",
+    "medicine": "pantoprazole 40mg inj",
+    "__v": 0
+  },
+  {
+    "_id": "639436727684fd0c5a2bde60",
+    "medicine": "tetracycline ointment",
+    "__v": 0
+  },
+  {
+    "_id": "63943cbb7684fd0c5a2bde88",
+    "medicine": "ivermectin 12mg",
+    "__v": 0
+  },
+  {
+    "_id": "639442f57684fd0c5a2bdebe",
+    "medicine": "ringer lactate 0.5l",
+    "__v": 0
+  },
+  {
+    "_id": "639443ec7684fd0c5a2bded1",
+    "medicine": "tobramycin drops",
+    "__v": 0
+  },
+  {
+    "_id": "6394444f7684fd0c5a2bdedd",
+    "medicine": "deep heat spray",
+    "__v": 0
+  },
+  {
+    "_id": "639468137684fd0c5a2be114",
+    "medicine": "metoclopramide 10mg tabs",
+    "__v": 0
+  },
+  {
+    "_id": "6394979a7684fd0c5a2bedbe",
+    "medicine": "silver sulfadiazine cream",
+    "__v": 0
+  },
+  {
+    "_id": "639498387684fd0c5a2bedcc",
+    "medicine": "dexamethasone 8mg inj",
+    "__v": 0
+  },
+  {
+    "_id": "6395e43d7684fd0c5a2c0279",
+    "medicine": "candibiotic drops",
+    "__v": 0
+  },
+  { "_id": "6395e46d7684fd0c5a2c0280", "medicine": "dns drip", "__v": 0 },
+  {
+    "_id": "6395e5667684fd0c5a2c0298",
+    "medicine": "anusol ointment",
+    "__v": 0
+  },
+  {
+    "_id": "6395e5cf7684fd0c5a2c02a4",
+    "medicine": "acyclovir cream",
+    "__v": 0
+  },
+  {
+    "_id": "6395e7bd7684fd0c5a2c02de",
+    "medicine": "mupirocin ointment",
+    "__v": 0
+  },
+  {
+    "_id": "6395e8c07684fd0c5a2c02ee",
+    "medicine": "betahistidine 8mg",
+    "__v": 0
+  },
+  { "_id": "6395ed0c7684fd0c5a2c0335", "medicine": "tramadol inj", "__v": 0 },
+  {
+    "_id": "6396cdc623e70d36336683e7",
+    "medicine": "sumatriptan 100mg",
+    "__v": 0
+  },
+  { "_id": "63975ccc9b259b788422f2e3", "medicine": "atenelol 50mg", "__v": 0 },
+  { "_id": "63975d519b259b788422f2e9", "medicine": "bbe susp", "__v": 0 },
+  {
+    "_id": "639882c454db84e3eba9d201",
+    "medicine": "salbutamol inhaler",
+    "__v": 0
+  },
+  { "_id": "639af177d86d6c06c5be65f1", "medicine": "alu 20/120", "__v": 0 },
+  { "_id": "639b0b59d86d6c06c5be663b", "medicine": "salbutamol 4mg", "__v": 0 },
+  { "_id": "639b435dd86d6c06c5befe4b", "medicine": "finasteride", "__v": 0 },
+  { "_id": "639c8a5a255ba1c5199d75db", "medicine": "dextrose 5%", "__v": 0 },
+  {
+    "_id": "639d574b255ba1c5199d76b1",
+    "medicine": "calamine lotion",
+    "__v": 0
+  },
+  {
+    "_id": "639eb880255ba1c5199d79ab",
+    "medicine": "promethazine 25m inj",
+    "__v": 0
+  },
+  { "_id": "63a001cc255ba1c5199d8a7d", "medicine": "amlodipine 5mg", "__v": 0 },
+  {
+    "_id": "63a1aca8255ba1c5199d9009",
+    "medicine": "artesunate 60mg inj",
+    "__v": 0
+  },
+  {
+    "_id": "63a2f866255ba1c5199d926e",
+    "medicine": "artificial tears drops",
+    "__v": 0
+  },
+  { "_id": "63a86264ad20feb4ecd3ff58", "medicine": "thumb splint", "__v": 0 },
+  {
+    "_id": "63a9ae01ad20feb4ecd41ba6",
+    "medicine": "praziquantel 600mg",
+    "__v": 0
+  },
+  {
+    "_id": "63aaf193196a31e732fea851",
+    "medicine": "tranexamic acid 500mg inj",
+    "__v": 0
+  },
+  {
+    "_id": "63aaf19f196a31e732fea853",
+    "medicine": "tranexamic acid 500 tabs",
+    "__v": 0
+  },
+  { "_id": "63b15a96196a31e732ff8a47", "medicine": "trastuzumab", "__v": 0 },
+  { "_id": "63b3dde45bccc7bd76506718", "medicine": "arm sling m", "__v": 0 },
+  { "_id": "63b56e4c5bccc7bd76506946", "medicine": "lumbar support", "__v": 0 },
+  { "_id": "63b595da5bccc7bd7650699a", "medicine": "vitamin d", "__v": 0 },
+  {
+    "_id": "63b6e2395bccc7bd765797a3",
+    "medicine": "moxifloxacin drops",
+    "__v": 0
+  }
+]
