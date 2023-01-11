@@ -88046,5 +88046,3383 @@
     ],
     "date": "2023-01-09T15:50:54.870Z",
     "__v": 0
+  },
+  {
+    "_id": "63bd629401dc12d53bedfc01",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bd629401dc12d53bedfc02"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd629401dc12d53bedfc03"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd629401dc12d53bedfc04"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd629401dc12d53bedfc05"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd629401dc12d53bedfc06"
+      }
+    ],
+    "date": "2023-01-10T13:05:24.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd66c301dc12d53bedfc08",
+    "medications": [
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd66c301dc12d53bedfc09"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd66c301dc12d53bedfc0a"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd66c301dc12d53bedfc0b"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd66c301dc12d53bedfc0c"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd66c301dc12d53bedfc0d"
+      }
+    ],
+    "date": "2023-01-10T13:23:15.818Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd66f001dc12d53bedfc0f",
+    "medications": [
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63bd66f001dc12d53bedfc10"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd66f001dc12d53bedfc11"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd66f001dc12d53bedfc12"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd66f001dc12d53bedfc13"
+      }
+    ],
+    "date": "2023-01-10T13:24:00.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd670401dc12d53bedfc15",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd670401dc12d53bedfc16"
+      },
+      {
+        "medicine": "anusol ointment",
+        "quantity": 1,
+        "_id": "63bd670401dc12d53bedfc17"
+      }
+    ],
+    "date": "2023-01-10T13:24:20.079Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd672301dc12d53bedfc19",
+    "medications": [
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd672301dc12d53bedfc1a"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd672301dc12d53bedfc1b"
+      },
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 10,
+        "_id": "63bd672301dc12d53bedfc1c"
+      }
+    ],
+    "date": "2023-01-10T13:24:51.998Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd678a01dc12d53bedfc1e",
+    "medications": [
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd678a01dc12d53bedfc1f"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd678a01dc12d53bedfc20"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd678a01dc12d53bedfc21"
+      }
+    ],
+    "date": "2023-01-10T13:26:34.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd67a601dc12d53bedfc23",
+    "medications": [
+      {
+        "medicine": "dexamethasone 8mg inj",
+        "quantity": 1,
+        "_id": "63bd67a601dc12d53bedfc24"
+      },
+      {
+        "medicine": "ringer lactate 0.5l",
+        "quantity": 1,
+        "_id": "63bd67a601dc12d53bedfc25"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd67a601dc12d53bedfc26"
+      }
+    ],
+    "date": "2023-01-10T13:27:02.311Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd67ca01dc12d53bedfc28",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63bd67ca01dc12d53bedfc29"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd67ca01dc12d53bedfc2a"
+      },
+      {
+        "medicine": "metronidazole 200mg",
+        "quantity": 30,
+        "_id": "63bd67ca01dc12d53bedfc2b"
+      }
+    ],
+    "date": "2023-01-10T13:27:38.221Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd681f01dc12d53bedfc2d",
+    "medications": [
+      {
+        "medicine": "magnesium tabs",
+        "quantity": 20,
+        "_id": "63bd681f01dc12d53bedfc2e"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd681f01dc12d53bedfc2f"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd681f01dc12d53bedfc30"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd681f01dc12d53bedfc31"
+      },
+      {
+        "medicine": "chloramphenicol drops",
+        "quantity": 1,
+        "_id": "63bd681f01dc12d53bedfc32"
+      }
+    ],
+    "date": "2023-01-10T13:29:03.652Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd684b01dc12d53bedfc34",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd684b01dc12d53bedfc35"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd684b01dc12d53bedfc36"
+      }
+    ],
+    "date": "2023-01-10T13:29:47.489Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd686e01dc12d53bedfc38",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd686e01dc12d53bedfc39"
+      }
+    ],
+    "date": "2023-01-10T13:30:22.544Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd688701dc12d53bedfc3b",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63bd688701dc12d53bedfc3c"
+      }
+    ],
+    "date": "2023-01-10T13:30:47.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd68a301dc12d53bedfc3e",
+    "medications": [
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd68a301dc12d53bedfc3f"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd68a301dc12d53bedfc40"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd68a301dc12d53bedfc41"
+      }
+    ],
+    "date": "2023-01-10T13:31:15.980Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd691601dc12d53bedfc43",
+    "medications": [
+      {
+        "medicine": "anusol ointment",
+        "quantity": 1,
+        "_id": "63bd691601dc12d53bedfc44"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd691601dc12d53bedfc45"
+      },
+      {
+        "medicine": "loperamide",
+        "quantity": 5,
+        "_id": "63bd691601dc12d53bedfc46"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd691601dc12d53bedfc47"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd691601dc12d53bedfc48"
+      },
+      {
+        "medicine": "metronidazole 200mg",
+        "quantity": 20,
+        "_id": "63bd691601dc12d53bedfc49"
+      }
+    ],
+    "date": "2023-01-10T13:33:11.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd692e01dc12d53bedfc4b",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd692e01dc12d53bedfc4c"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd692e01dc12d53bedfc4d"
+      }
+    ],
+    "date": "2023-01-10T13:33:34.386Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd695301dc12d53bedfc4f",
+    "medications": [
+      {
+        "medicine": "hydrocortisone 100mg",
+        "quantity": 1,
+        "_id": "63bd695301dc12d53bedfc50"
+      },
+      {
+        "medicine": "diclofenac 75mg",
+        "quantity": 2,
+        "_id": "63bd695301dc12d53bedfc51"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd695301dc12d53bedfc52"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd695301dc12d53bedfc53"
+      }
+    ],
+    "date": "2023-01-10T13:34:11.446Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd696e01dc12d53bedfc55",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 5,
+        "_id": "63bd696e01dc12d53bedfc56"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd696e01dc12d53bedfc57"
+      }
+    ],
+    "date": "2023-01-10T13:34:38.426Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd698f01dc12d53bedfc59",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bd698f01dc12d53bedfc5a"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd698f01dc12d53bedfc5b"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd698f01dc12d53bedfc5c"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd698f01dc12d53bedfc5d"
+      }
+    ],
+    "date": "2023-01-10T13:35:11.826Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd69a401dc12d53bedfc5f",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd69a401dc12d53bedfc60"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd69a401dc12d53bedfc61"
+      }
+    ],
+    "date": "2023-01-10T13:35:32.552Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6c1001dc12d53bedfc63",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 2,
+        "_id": "63bd6c1001dc12d53bedfc64"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd6c1001dc12d53bedfc65"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6c1001dc12d53bedfc66"
+      },
+      {
+        "medicine": "diclofenac 75mg",
+        "quantity": 1,
+        "_id": "63bd6c1001dc12d53bedfc67"
+      }
+    ],
+    "date": "2023-01-10T13:45:52.446Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6c2e01dc12d53bedfc69",
+    "medications": [
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd6c2e01dc12d53bedfc6a"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6c2e01dc12d53bedfc6b"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd6c2e01dc12d53bedfc6c"
+      }
+    ],
+    "date": "2023-01-10T13:46:22.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6c3f01dc12d53bedfc6e",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd6c3f01dc12d53bedfc6f"
+      },
+      {
+        "medicine": "oral rehydration salt",
+        "quantity": 2,
+        "_id": "63bd6c3f01dc12d53bedfc70"
+      }
+    ],
+    "date": "2023-01-10T13:46:39.472Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6c6801dc12d53bedfc72",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd6c6801dc12d53bedfc73"
+      },
+      {
+        "medicine": "lactulose solution",
+        "quantity": 1,
+        "_id": "63bd6c6801dc12d53bedfc74"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6c6801dc12d53bedfc75"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd6c6801dc12d53bedfc76"
+      }
+    ],
+    "date": "2023-01-10T13:47:20.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6cfa01dc12d53bedfc78",
+    "medications": [
+      {
+        "medicine": "neurosupport",
+        "quantity": 10,
+        "_id": "63bd6cfa01dc12d53bedfc79"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd6cfa01dc12d53bedfc7a"
+      },
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd6cfa01dc12d53bedfc7b"
+      }
+    ],
+    "date": "2023-01-10T13:49:46.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6d2201dc12d53bedfc7d",
+    "medications": [
+      {
+        "medicine": "magnesium tabs",
+        "quantity": 20,
+        "_id": "63bd6d2201dc12d53bedfc7e"
+      },
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bd6d2201dc12d53bedfc7f"
+      }
+    ],
+    "date": "2023-01-10T13:50:26.098Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6d5301dc12d53bedfc81",
+    "medications": [
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd6d5301dc12d53bedfc82"
+      },
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd6d5301dc12d53bedfc83"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd6d5301dc12d53bedfc84"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd6d5301dc12d53bedfc85"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bd6d5301dc12d53bedfc86"
+      }
+    ],
+    "date": "2023-01-10T13:51:15.339Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6d7301dc12d53bedfc88",
+    "medications": [
+      {
+        "medicine": "hydrocortisone 100mg",
+        "quantity": 1,
+        "_id": "63bd6d7301dc12d53bedfc89"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6d7301dc12d53bedfc8a"
+      },
+      {
+        "medicine": "betamethasone cream",
+        "quantity": 1,
+        "_id": "63bd6d7301dc12d53bedfc8b"
+      }
+    ],
+    "date": "2023-01-10T13:51:47.950Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6d8e01dc12d53bedfc8d",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6d8e01dc12d53bedfc8e"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd6d8e01dc12d53bedfc8f"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd6d8e01dc12d53bedfc90"
+      }
+    ],
+    "date": "2023-01-10T13:52:14.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6d9d01dc12d53bedfc92",
+    "medications": [
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd6d9d01dc12d53bedfc93"
+      }
+    ],
+    "date": "2023-01-10T13:52:29.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6dbc01dc12d53bedfc95",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd6dbc01dc12d53bedfc96"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6dbc01dc12d53bedfc97"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd6dbc01dc12d53bedfc98"
+      },
+      {
+        "medicine": "cough syrup",
+        "quantity": 1,
+        "_id": "63bd6dbc01dc12d53bedfc99"
+      }
+    ],
+    "date": "2023-01-10T13:53:00.644Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6df001dc12d53bedfc9b",
+    "medications": [
+      {
+        "medicine": "tizanidine 4mg",
+        "quantity": 10,
+        "_id": "63bd6df001dc12d53bedfc9c"
+      },
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd6df001dc12d53bedfc9d"
+      },
+      {
+        "medicine": "neurosupport",
+        "quantity": 10,
+        "_id": "63bd6df001dc12d53bedfc9e"
+      },
+      {
+        "medicine": "betamethasone cream",
+        "quantity": 1,
+        "_id": "63bd6df001dc12d53bedfc9f"
+      },
+      {
+        "medicine": "lactulose solution",
+        "quantity": 1,
+        "_id": "63bd6df001dc12d53bedfca0"
+      }
+    ],
+    "date": "2023-01-10T13:53:52.187Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6e0301dc12d53bedfca2",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bd6e0301dc12d53bedfca3"
+      },
+      {
+        "medicine": "griseofulvin 500mg tab",
+        "quantity": 10,
+        "_id": "63bd6e0301dc12d53bedfca4"
+      }
+    ],
+    "date": "2023-01-10T13:54:11.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6e1701dc12d53bedfca6",
+    "medications": [
+      {
+        "medicine": "dexamethasone drops",
+        "quantity": 1,
+        "_id": "63bd6e1701dc12d53bedfca7"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd6e1701dc12d53bedfca8"
+      }
+    ],
+    "date": "2023-01-10T13:54:31.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6e2101dc12d53bedfcaa",
+    "medications": [
+      {
+        "medicine": "tetracycline ointment",
+        "quantity": 1,
+        "_id": "63bd6e2101dc12d53bedfcab"
+      }
+    ],
+    "date": "2023-01-10T13:54:41.346Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6e4601dc12d53bedfcad",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 1,
+        "_id": "63bd6e4601dc12d53bedfcae"
+      },
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bd6e4601dc12d53bedfcaf"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bd6e4601dc12d53bedfcb0"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6e4601dc12d53bedfcb1"
+      },
+      {
+        "medicine": "hydrocortisone 100mg",
+        "quantity": 2,
+        "_id": "63bd6e4601dc12d53bedfcb2"
+      }
+    ],
+    "date": "2023-01-10T13:55:18.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6e5801dc12d53bedfcb4",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6e5801dc12d53bedfcb5"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd6e5801dc12d53bedfcb6"
+      }
+    ],
+    "date": "2023-01-10T13:55:36.588Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6e7901dc12d53bedfcb8",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 20,
+        "_id": "63bd6e7901dc12d53bedfcb9"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6e7901dc12d53bedfcba"
+      }
+    ],
+    "date": "2023-01-10T13:56:09.540Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6ec601dc12d53bedfcbc",
+    "medications": [
+      {
+        "medicine": "metronidazole 200mg",
+        "quantity": 30,
+        "_id": "63bd6ec601dc12d53bedfcbd"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6ec601dc12d53bedfcbe"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd6ec601dc12d53bedfcbf"
+      }
+    ],
+    "date": "2023-01-10T13:57:26.167Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6ee301dc12d53bedfcc1",
+    "medications": [
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd6ee301dc12d53bedfcc2"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6ee301dc12d53bedfcc3"
+      },
+      {
+        "medicine": "cough syrup",
+        "quantity": 1,
+        "_id": "63bd6ee301dc12d53bedfcc4"
+      }
+    ],
+    "date": "2023-01-10T13:57:55.422Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6f0501dc12d53bedfcc6",
+    "medications": [
+      {
+        "medicine": "lactulose solution",
+        "quantity": 1,
+        "_id": "63bd6f0501dc12d53bedfcc7"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6f0501dc12d53bedfcc8"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd6f0501dc12d53bedfcc9"
+      }
+    ],
+    "date": "2023-01-10T13:58:29.213Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6f4201dc12d53bedfccb",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd6f4201dc12d53bedfccc"
+      },
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd6f4201dc12d53bedfccd"
+      },
+      {
+        "medicine": "loperamide",
+        "quantity": 5,
+        "_id": "63bd6f4201dc12d53bedfcce"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bd6f4201dc12d53bedfccf"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd6f4201dc12d53bedfcd0"
+      }
+    ],
+    "date": "2023-01-10T13:59:30.670Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6f5001dc12d53bedfcd2",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6f5001dc12d53bedfcd3"
+      }
+    ],
+    "date": "2023-01-10T13:59:44.900Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6f6f01dc12d53bedfcd5",
+    "medications": [
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bd6f6f01dc12d53bedfcd6"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6f6f01dc12d53bedfcd7"
+      },
+      {
+        "medicine": "miconazole oral gel",
+        "quantity": 1,
+        "_id": "63bd6f6f01dc12d53bedfcd8"
+      }
+    ],
+    "date": "2023-01-10T14:00:15.890Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6fa701dc12d53bedfcda",
+    "medications": [
+      {
+        "medicine": "deep heat spray",
+        "quantity": 1,
+        "_id": "63bd6fa701dc12d53bedfcdb"
+      }
+    ],
+    "date": "2023-01-10T14:01:11.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6fb701dc12d53bedfcdd",
+    "medications": [
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd6fb701dc12d53bedfcde"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6fb701dc12d53bedfcdf"
+      }
+    ],
+    "date": "2023-01-10T14:01:27.418Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6fc501dc12d53bedfce1",
+    "medications": [
+      {
+        "medicine": "dexaneo drops",
+        "quantity": 1,
+        "_id": "63bd6fc501dc12d53bedfce2"
+      }
+    ],
+    "date": "2023-01-10T14:01:41.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6fe801dc12d53bedfce4",
+    "medications": [
+      {
+        "medicine": "pantoprazole 40mg inj",
+        "quantity": 2,
+        "_id": "63bd6fe801dc12d53bedfce5"
+      },
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bd6fe801dc12d53bedfce6"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6fe801dc12d53bedfce7"
+      }
+    ],
+    "date": "2023-01-10T14:02:16.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd6ffe01dc12d53bedfce9",
+    "medications": [
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 15,
+        "_id": "63bd6ffe01dc12d53bedfcea"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd6ffe01dc12d53bedfceb"
+      }
+    ],
+    "date": "2023-01-10T14:02:38.316Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd700901dc12d53bedfced",
+    "medications": [
+      {
+        "medicine": "tetanus vaccine",
+        "quantity": 1,
+        "_id": "63bd700901dc12d53bedfcee"
+      }
+    ],
+    "date": "2023-01-10T14:02:49.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd701a01dc12d53bedfcf0",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd701a01dc12d53bedfcf1"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd701a01dc12d53bedfcf2"
+      }
+    ],
+    "date": "2023-01-10T14:03:06.163Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd703201dc12d53bedfcf4",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd703201dc12d53bedfcf5"
+      },
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 10,
+        "_id": "63bd703201dc12d53bedfcf6"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd703201dc12d53bedfcf7"
+      }
+    ],
+    "date": "2023-01-10T14:03:30.761Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd704e01dc12d53bedfcf9",
+    "medications": [
+      {
+        "medicine": "cough syrup",
+        "quantity": 1,
+        "_id": "63bd704e01dc12d53bedfcfa"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd704e01dc12d53bedfcfb"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd704e01dc12d53bedfcfc"
+      }
+    ],
+    "date": "2023-01-10T14:03:58.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd708301dc12d53bedfcfe",
+    "medications": [
+      {
+        "medicine": "clarithromycin 500mg",
+        "quantity": 7,
+        "_id": "63bd708301dc12d53bedfcff"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bd708301dc12d53bedfd00"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd708301dc12d53bedfd01"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd708301dc12d53bedfd02"
+      }
+    ],
+    "date": "2023-01-10T14:04:51.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd70a301dc12d53bedfd04",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd70a301dc12d53bedfd05"
+      }
+    ],
+    "date": "2023-01-10T14:05:23.938Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd70c701dc12d53bedfd07",
+    "medications": [
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd70c701dc12d53bedfd08"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd70c701dc12d53bedfd09"
+      },
+      {
+        "medicine": "magnesium tabs",
+        "quantity": 20,
+        "_id": "63bd70c701dc12d53bedfd0a"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd70c701dc12d53bedfd0b"
+      }
+    ],
+    "date": "2023-01-10T14:05:59.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd70dc01dc12d53bedfd0d",
+    "medications": [
+      {
+        "medicine": "clarithromycin 500mg",
+        "quantity": 7,
+        "_id": "63bd70dc01dc12d53bedfd0e"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd70dc01dc12d53bedfd0f"
+      }
+    ],
+    "date": "2023-01-10T14:06:20.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd710301dc12d53bedfd11",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bd710301dc12d53bedfd12"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd710301dc12d53bedfd13"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bd710301dc12d53bedfd14"
+      }
+    ],
+    "date": "2023-01-10T14:06:59.353Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd711501dc12d53bedfd16",
+    "medications": [
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd711501dc12d53bedfd17"
+      }
+    ],
+    "date": "2023-01-10T14:07:17.177Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd714501dc12d53bedfd19",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd714501dc12d53bedfd1a"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd714501dc12d53bedfd1b"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd714501dc12d53bedfd1c"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bd714501dc12d53bedfd1d"
+      }
+    ],
+    "date": "2023-01-10T14:08:05.907Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd718801dc12d53bedfd1f",
+    "medications": [
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd718801dc12d53bedfd20"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63bd718801dc12d53bedfd21"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd718801dc12d53bedfd22"
+      }
+    ],
+    "date": "2023-01-10T14:09:12.878Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd719701dc12d53bedfd24",
+    "medications": [
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd719701dc12d53bedfd25"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd719701dc12d53bedfd26"
+      }
+    ],
+    "date": "2023-01-10T14:09:27.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd71a901dc12d53bedfd28",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd71a901dc12d53bedfd29"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd71a901dc12d53bedfd2a"
+      }
+    ],
+    "date": "2023-01-10T14:09:45.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd71d801dc12d53bedfd2c",
+    "medications": [
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bd71d801dc12d53bedfd2d"
+      }
+    ],
+    "date": "2023-01-10T14:10:32.678Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd71fd01dc12d53bedfd2f",
+    "medications": [
+      {
+        "medicine": "hydrocortisone 100mg",
+        "quantity": 2,
+        "_id": "63bd71fd01dc12d53bedfd30"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd71fd01dc12d53bedfd31"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd71fd01dc12d53bedfd32"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd71fd01dc12d53bedfd33"
+      }
+    ],
+    "date": "2023-01-10T14:11:09.691Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd720f01dc12d53bedfd35",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd720f01dc12d53bedfd36"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bd720f01dc12d53bedfd37"
+      }
+    ],
+    "date": "2023-01-10T14:11:27.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd722201dc12d53bedfd39",
+    "medications": [
+      {
+        "medicine": "hydrocortisone cream",
+        "quantity": 1,
+        "_id": "63bd722201dc12d53bedfd3a"
+      },
+      {
+        "medicine": "betamethasone cream",
+        "quantity": 1,
+        "_id": "63bd722201dc12d53bedfd3b"
+      }
+    ],
+    "date": "2023-01-10T14:11:46.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd722b01dc12d53bedfd3d",
+    "medications": [
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63bd722b01dc12d53bedfd3e"
+      }
+    ],
+    "date": "2023-01-10T14:11:55.014Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd723e01dc12d53bedfd40",
+    "medications": [
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bd723e01dc12d53bedfd41"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd723e01dc12d53bedfd42"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd723e01dc12d53bedfd43"
+      }
+    ],
+    "date": "2023-01-10T14:12:14.500Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd724f01dc12d53bedfd45",
+    "medications": [
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bd724f01dc12d53bedfd46"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd724f01dc12d53bedfd47"
+      }
+    ],
+    "date": "2023-01-10T14:12:31.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd725f01dc12d53bedfd49",
+    "medications": [
+      {
+        "medicine": "tobramycin drops",
+        "quantity": 1,
+        "_id": "63bd725f01dc12d53bedfd4a"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd725f01dc12d53bedfd4b"
+      }
+    ],
+    "date": "2023-01-10T14:12:47.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd728701dc12d53bedfd4d",
+    "medications": [
+      {
+        "medicine": "oral rehydration salt",
+        "quantity": 2,
+        "_id": "63bd728701dc12d53bedfd4e"
+      },
+      {
+        "medicine": "loperamide",
+        "quantity": 5,
+        "_id": "63bd728701dc12d53bedfd4f"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd728701dc12d53bedfd50"
+      }
+    ],
+    "date": "2023-01-10T14:13:27.542Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd72a101dc12d53bedfd52",
+    "medications": [
+      {
+        "medicine": "oral rehydration salt",
+        "quantity": 2,
+        "_id": "63bd72a101dc12d53bedfd53"
+      },
+      {
+        "medicine": "loperamide",
+        "quantity": 5,
+        "_id": "63bd72a101dc12d53bedfd54"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bd72a101dc12d53bedfd55"
+      }
+    ],
+    "date": "2023-01-10T14:13:53.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd72c001dc12d53bedfd57",
+    "medications": [
+      {
+        "medicine": "tetanus vaccine",
+        "quantity": 1,
+        "_id": "63bd72c001dc12d53bedfd58"
+      },
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bd72c001dc12d53bedfd59"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd72c001dc12d53bedfd5a"
+      }
+    ],
+    "date": "2023-01-10T14:14:24.643Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd72de01dc12d53bedfd5c",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd72de01dc12d53bedfd5d"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bd72de01dc12d53bedfd5e"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd72de01dc12d53bedfd5f"
+      },
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63bd72de01dc12d53bedfd60"
+      }
+    ],
+    "date": "2023-01-10T14:14:54.479Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd72e901dc12d53bedfd62",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bd72e901dc12d53bedfd63"
+      }
+    ],
+    "date": "2023-01-10T14:15:05.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd730601dc12d53bedfd65",
+    "medications": [
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bd730601dc12d53bedfd66"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd730601dc12d53bedfd67"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd730601dc12d53bedfd68"
+      }
+    ],
+    "date": "2023-01-10T14:15:34.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd733001dc12d53bedfd6a",
+    "medications": [
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bd733001dc12d53bedfd6b"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd733001dc12d53bedfd6c"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd733001dc12d53bedfd6d"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd733001dc12d53bedfd6e"
+      }
+    ],
+    "date": "2023-01-10T14:16:16.502Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd733c01dc12d53bedfd70",
+    "medications": [
+      {
+        "medicine": "cough syrup",
+        "quantity": 1,
+        "_id": "63bd733c01dc12d53bedfd71"
+      }
+    ],
+    "date": "2023-01-10T14:16:28.246Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd73e401dc12d53bedfd76",
+    "medications": [
+      {
+        "medicine": "cough syrup",
+        "quantity": 1,
+        "_id": "63bd73e401dc12d53bedfd77"
+      }
+    ],
+    "date": "2023-01-10T14:19:16.404Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd740701dc12d53bedfd79",
+    "medications": [
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bd740701dc12d53bedfd7a"
+      }
+    ],
+    "date": "2023-01-10T14:19:51.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bd743101dc12d53bedfd7c",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bd743101dc12d53bedfd7d"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bd743101dc12d53bedfd7e"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bd743101dc12d53bedfd7f"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bd743101dc12d53bedfd80"
+      }
+    ],
+    "date": "2023-01-10T14:20:33.056Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb07601dc12d53bee2d8a",
+    "medications": [
+      {
+        "medicine": "hyoscine injection",
+        "quantity": 1,
+        "_id": "63beb07601dc12d53bee2d8b"
+      },
+      {
+        "medicine": "diclofenac 75mg",
+        "quantity": 1,
+        "_id": "63beb07601dc12d53bee2d8c"
+      },
+      {
+        "medicine": "ondansetron 8mg injection",
+        "quantity": 1,
+        "_id": "63beb07601dc12d53bee2d8d"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb07601dc12d53bee2d8e"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb07601dc12d53bee2d8f"
+      }
+    ],
+    "date": "2023-01-11T12:49:58.027Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb09801dc12d53bee2d91",
+    "medications": [
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63beb09801dc12d53bee2d92"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb09801dc12d53bee2d93"
+      },
+      {
+        "medicine": "miconazole oral gel",
+        "quantity": 1,
+        "_id": "63beb09801dc12d53bee2d94"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb09801dc12d53bee2d95"
+      }
+    ],
+    "date": "2023-01-11T12:50:32.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb0b301dc12d53bee2d97",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63beb0b301dc12d53bee2d98"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63beb0b301dc12d53bee2d99"
+      }
+    ],
+    "date": "2023-01-11T12:50:59.436Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb0c901dc12d53bee2d9b",
+    "medications": [
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63beb0c901dc12d53bee2d9c"
+      }
+    ],
+    "date": "2023-01-11T12:51:21.234Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb0e201dc12d53bee2d9e",
+    "medications": [
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63beb0e201dc12d53bee2d9f"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63beb0e201dc12d53bee2da0"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb0e201dc12d53bee2da1"
+      }
+    ],
+    "date": "2023-01-11T12:51:46.414Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb13301dc12d53bee2da3",
+    "medications": [
+      {
+        "medicine": "diclofenac 75mg",
+        "quantity": 2,
+        "_id": "63beb13301dc12d53bee2da4"
+      },
+      {
+        "medicine": "hydrocortisone 100mg",
+        "quantity": 2,
+        "_id": "63beb13301dc12d53bee2da5"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63beb13301dc12d53bee2da6"
+      }
+    ],
+    "date": "2023-01-11T12:53:07.981Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb15001dc12d53bee2da8",
+    "medications": [
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb15001dc12d53bee2da9"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63beb15001dc12d53bee2daa"
+      }
+    ],
+    "date": "2023-01-11T12:53:36.552Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb26901dc12d53bee2dac",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb26901dc12d53bee2dad"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb26901dc12d53bee2dae"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63beb26901dc12d53bee2daf"
+      }
+    ],
+    "date": "2023-01-11T12:58:17.649Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb39f01dc12d53bee2db1",
+    "medications": [
+      {
+        "medicine": "metronidazole 200mg",
+        "quantity": 30,
+        "_id": "63beb39f01dc12d53bee2db2"
+      },
+      {
+        "medicine": "oral rehydration salt",
+        "quantity": 2,
+        "_id": "63beb39f01dc12d53bee2db3"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb39f01dc12d53bee2db4"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb39f01dc12d53bee2db5"
+      }
+    ],
+    "date": "2023-01-11T13:03:27.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb3b501dc12d53bee2db7",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb3b501dc12d53bee2db8"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb3b501dc12d53bee2db9"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63beb3b501dc12d53bee2dba"
+      }
+    ],
+    "date": "2023-01-11T13:03:49.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb3e401dc12d53bee2dbc",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63beb3e401dc12d53bee2dbd"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb3e401dc12d53bee2dbe"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63beb3e401dc12d53bee2dbf"
+      }
+    ],
+    "date": "2023-01-11T13:04:36.852Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb60101dc12d53bee2dc1",
+    "medications": [
+      {
+        "medicine": "hyoscine injection",
+        "quantity": 1,
+        "_id": "63beb60101dc12d53bee2dc2"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb60101dc12d53bee2dc3"
+      },
+      {
+        "medicine": "ringer lactate 0.5l",
+        "quantity": 1,
+        "_id": "63beb60101dc12d53bee2dc4"
+      },
+      {
+        "medicine": "dns drip",
+        "quantity": 1,
+        "_id": "63beb60101dc12d53bee2dc5"
+      },
+      {
+        "medicine": "metoclopramide 10mg tabs",
+        "quantity": 10,
+        "_id": "63beb60101dc12d53bee2dc6"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63beb60101dc12d53bee2dc7"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb60101dc12d53bee2dc8"
+      }
+    ],
+    "date": "2023-01-11T13:13:37.460Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb62801dc12d53bee2dca",
+    "medications": [
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63beb62801dc12d53bee2dcb"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63beb62801dc12d53bee2dcc"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb62801dc12d53bee2dcd"
+      }
+    ],
+    "date": "2023-01-11T13:14:16.084Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb66401dc12d53bee2dcf",
+    "medications": [
+      {
+        "medicine": "meloxicam 15mg",
+        "quantity": 10,
+        "_id": "63beb66401dc12d53bee2dd0"
+      },
+      {
+        "medicine": "tizanidine 4mg",
+        "quantity": 10,
+        "_id": "63beb66401dc12d53bee2dd1"
+      },
+      {
+        "medicine": "neurosupport",
+        "quantity": 10,
+        "_id": "63beb66401dc12d53bee2dd2"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb66401dc12d53bee2dd3"
+      },
+      {
+        "medicine": "magnesium tabs",
+        "quantity": 10,
+        "_id": "63beb66401dc12d53bee2dd4"
+      }
+    ],
+    "date": "2023-01-11T13:15:16.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb67701dc12d53bee2dd6",
+    "medications": [
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb67701dc12d53bee2dd7"
+      }
+    ],
+    "date": "2023-01-11T13:15:35.441Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb69001dc12d53bee2dd9",
+    "medications": [
+      {
+        "medicine": "chloramphenicol drops",
+        "quantity": 1,
+        "_id": "63beb69001dc12d53bee2dda"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63beb69001dc12d53bee2ddb"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb69001dc12d53bee2ddc"
+      }
+    ],
+    "date": "2023-01-11T13:16:00.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb82301dc12d53bee2dde",
+    "medications": [
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb82301dc12d53bee2ddf"
+      },
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63beb82301dc12d53bee2de0"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63beb82301dc12d53bee2de1"
+      }
+    ],
+    "date": "2023-01-11T13:22:43.844Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb83201dc12d53bee2de3",
+    "medications": [
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63beb83201dc12d53bee2de4"
+      }
+    ],
+    "date": "2023-01-11T13:22:58.140Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb85f01dc12d53bee2de6",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63beb85f01dc12d53bee2de7"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63beb85f01dc12d53bee2de8"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63beb85f01dc12d53bee2de9"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb85f01dc12d53bee2dea"
+      }
+    ],
+    "date": "2023-01-11T13:23:43.275Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb8c901dc12d53bee2dec",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63beb8c901dc12d53bee2ded"
+      },
+      {
+        "medicine": "meloxicam 15mg",
+        "quantity": 10,
+        "_id": "63beb8c901dc12d53bee2dee"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63beb8c901dc12d53bee2def"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63beb8c901dc12d53bee2df0"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63beb8c901dc12d53bee2df1"
+      },
+      {
+        "medicine": "tizanidine 4mg",
+        "quantity": 10,
+        "_id": "63beb8c901dc12d53bee2df2"
+      },
+      {
+        "medicine": "neurosupport",
+        "quantity": 10,
+        "_id": "63beb8c901dc12d53bee2df3"
+      }
+    ],
+    "date": "2023-01-11T13:25:29.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb8f901dc12d53bee2df5",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 10,
+        "_id": "63beb8f901dc12d53bee2df6"
+      },
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 10,
+        "_id": "63beb8f901dc12d53bee2df7"
+      },
+      {
+        "medicine": "anusol ointment",
+        "quantity": 1,
+        "_id": "63beb8f901dc12d53bee2df8"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63beb8f901dc12d53bee2df9"
+      }
+    ],
+    "date": "2023-01-11T13:26:17.725Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb94d01dc12d53bee2dfb",
+    "medications": [
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63beb94d01dc12d53bee2dfc"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 0,
+        "_id": "63beb94d01dc12d53bee2dfd"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb94d01dc12d53bee2dfe"
+      },
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 1,
+        "_id": "63beb94d01dc12d53bee2dff"
+      },
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63beb94d01dc12d53bee2e00"
+      }
+    ],
+    "date": "2023-01-11T13:27:41.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb97801dc12d53bee2e02",
+    "medications": [
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63beb97801dc12d53bee2e03"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb97801dc12d53bee2e04"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63beb97801dc12d53bee2e05"
+      },
+      {
+        "medicine": "clarithromycin 500mg",
+        "quantity": 7,
+        "_id": "63beb97801dc12d53bee2e06"
+      }
+    ],
+    "date": "2023-01-11T13:28:24.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb9b001dc12d53bee2e08",
+    "medications": [
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 10,
+        "_id": "63beb9b001dc12d53bee2e09"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb9b001dc12d53bee2e0a"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63beb9b001dc12d53bee2e0b"
+      },
+      {
+        "medicine": "vitamin b-complex tab",
+        "quantity": 0,
+        "_id": "63beb9b001dc12d53bee2e0c"
+      }
+    ],
+    "date": "2023-01-11T13:29:20.238Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb9bf01dc12d53bee2e0e",
+    "medications": [
+      {
+        "medicine": "tobramycin drops",
+        "quantity": 1,
+        "_id": "63beb9bf01dc12d53bee2e0f"
+      }
+    ],
+    "date": "2023-01-11T13:29:35.676Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beb9e301dc12d53bee2e11",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63beb9e301dc12d53bee2e12"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beb9e301dc12d53bee2e13"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63beb9e301dc12d53bee2e14"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63beb9e301dc12d53bee2e15"
+      }
+    ],
+    "date": "2023-01-11T13:30:11.897Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beba0d01dc12d53bee2e17",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63beba0d01dc12d53bee2e18"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beba0d01dc12d53bee2e19"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63beba0d01dc12d53bee2e1a"
+      }
+    ],
+    "date": "2023-01-11T13:30:53.718Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beba4c01dc12d53bee2e1c",
+    "medications": [
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63beba4c01dc12d53bee2e1d"
+      },
+      {
+        "medicine": "chloramphenicol drops",
+        "quantity": 1,
+        "_id": "63beba4c01dc12d53bee2e1e"
+      },
+      {
+        "medicine": "magnesium tabs",
+        "quantity": 10,
+        "_id": "63beba4c01dc12d53bee2e1f"
+      },
+      {
+        "medicine": "metoclopramide 10mg tabs",
+        "quantity": 10,
+        "_id": "63beba4c01dc12d53bee2e20"
+      }
+    ],
+    "date": "2023-01-11T13:31:56.807Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beba6f01dc12d53bee2e22",
+    "medications": [
+      {
+        "medicine": "albendazole 400mg",
+        "quantity": 3,
+        "_id": "63beba6f01dc12d53bee2e23"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63beba6f01dc12d53bee2e24"
+      },
+      {
+        "medicine": "metronidazole 200mg",
+        "quantity": 20,
+        "_id": "63beba6f01dc12d53bee2e25"
+      }
+    ],
+    "date": "2023-01-11T13:32:31.685Z",
+    "__v": 0
+  },
+  {
+    "_id": "63beba9101dc12d53bee2e27",
+    "medications": [
+      {
+        "medicine": "diclofenac 75mg",
+        "quantity": 1,
+        "_id": "63beba9101dc12d53bee2e28"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63beba9101dc12d53bee2e29"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63beba9101dc12d53bee2e2a"
+      }
+    ],
+    "date": "2023-01-11T13:33:05.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebaac01dc12d53bee2e2c",
+    "medications": [
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bebaac01dc12d53bee2e2d"
+      },
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bebaac01dc12d53bee2e2e"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebaac01dc12d53bee2e2f"
+      }
+    ],
+    "date": "2023-01-11T13:33:32.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebb0101dc12d53bee2e31",
+    "medications": [
+      {
+        "medicine": "doxycycline 100mg",
+        "quantity": 14,
+        "_id": "63bebb0101dc12d53bee2e32"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bebb0101dc12d53bee2e33"
+      }
+    ],
+    "date": "2023-01-11T13:34:57.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebb2101dc12d53bee2e35",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebb2101dc12d53bee2e36"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bebb2101dc12d53bee2e37"
+      },
+      {
+        "medicine": "chloramphenicol drops",
+        "quantity": 1,
+        "_id": "63bebb2101dc12d53bee2e38"
+      },
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63bebb2101dc12d53bee2e39"
+      }
+    ],
+    "date": "2023-01-11T13:35:29.491Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebb4e01dc12d53bee2e3b",
+    "medications": [
+      {
+        "medicine": "metformin 500mg",
+        "quantity": 40,
+        "_id": "63bebb4e01dc12d53bee2e3c"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebb4e01dc12d53bee2e3d"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bebb4e01dc12d53bee2e3e"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bebb4e01dc12d53bee2e3f"
+      }
+    ],
+    "date": "2023-01-11T13:36:14.262Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebb9301dc12d53bee2e41",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 1,
+        "_id": "63bebb9301dc12d53bee2e42"
+      },
+      {
+        "medicine": "cefixime 200mg",
+        "quantity": 10,
+        "_id": "63bebb9301dc12d53bee2e43"
+      },
+      {
+        "medicine": "doxycycline 100mg",
+        "quantity": 14,
+        "_id": "63bebb9301dc12d53bee2e44"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bebb9301dc12d53bee2e45"
+      }
+    ],
+    "date": "2023-01-11T13:37:23.087Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebbba01dc12d53bee2e47",
+    "medications": [
+      {
+        "medicine": "cerumol drops",
+        "quantity": 1,
+        "_id": "63bebbba01dc12d53bee2e48"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebbba01dc12d53bee2e49"
+      },
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63bebbba01dc12d53bee2e4a"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bebbba01dc12d53bee2e4b"
+      }
+    ],
+    "date": "2023-01-11T13:38:02.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebbc601dc12d53bee2e4d",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63bebbc601dc12d53bee2e4e"
+      }
+    ],
+    "date": "2023-01-11T13:38:14.867Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebbd801dc12d53bee2e50",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebbd801dc12d53bee2e51"
+      }
+    ],
+    "date": "2023-01-11T13:38:32.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebc0101dc12d53bee2e53",
+    "medications": [
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 10,
+        "_id": "63bebc0101dc12d53bee2e54"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebc0101dc12d53bee2e55"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bebc0101dc12d53bee2e56"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bebc0101dc12d53bee2e57"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bebc0101dc12d53bee2e58"
+      }
+    ],
+    "date": "2023-01-11T13:39:13.744Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebc1a01dc12d53bee2e5a",
+    "medications": [
+      {
+        "medicine": "diclofenac 75mg",
+        "quantity": 2,
+        "_id": "63bebc1a01dc12d53bee2e5b"
+      }
+    ],
+    "date": "2023-01-11T13:39:38.209Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebc5f01dc12d53bee2e5d",
+    "medications": [
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 5,
+        "_id": "63bebc5f01dc12d53bee2e5e"
+      },
+      {
+        "medicine": "meloxicam 15mg",
+        "quantity": 5,
+        "_id": "63bebc5f01dc12d53bee2e5f"
+      }
+    ],
+    "date": "2023-01-11T13:40:47.772Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebc7801dc12d53bee2e61",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebc7801dc12d53bee2e62"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bebc7801dc12d53bee2e63"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bebc7801dc12d53bee2e64"
+      }
+    ],
+    "date": "2023-01-11T13:41:12.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebcd101dc12d53bee2e66",
+    "medications": [
+      {
+        "medicine": "tobramycin drops",
+        "quantity": 1,
+        "_id": "63bebcd101dc12d53bee2e67"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bebcd101dc12d53bee2e68"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebcd101dc12d53bee2e69"
+      },
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 10,
+        "_id": "63bebcd101dc12d53bee2e6a"
+      }
+    ],
+    "date": "2023-01-11T13:42:41.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebce401dc12d53bee2e6c",
+    "medications": [
+      {
+        "medicine": "pantoprazole 40mg inj",
+        "quantity": 1,
+        "_id": "63bebce401dc12d53bee2e6d"
+      },
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bebce401dc12d53bee2e6e"
+      }
+    ],
+    "date": "2023-01-11T13:43:00.880Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebd1301dc12d53bee2e70",
+    "medications": [
+      {
+        "medicine": "tetanus vaccine",
+        "quantity": 1,
+        "_id": "63bebd1301dc12d53bee2e71"
+      },
+      {
+        "medicine": "clarithromycin 500mg",
+        "quantity": 7,
+        "_id": "63bebd1301dc12d53bee2e72"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebd1301dc12d53bee2e73"
+      }
+    ],
+    "date": "2023-01-11T13:43:47.274Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebd5301dc12d53bee2e75",
+    "medications": [
+      {
+        "medicine": "dexamethasone 8mg inj",
+        "quantity": 1,
+        "_id": "63bebd5301dc12d53bee2e76"
+      },
+      {
+        "medicine": "dexamethasone drops",
+        "quantity": 1,
+        "_id": "63bebd5301dc12d53bee2e77"
+      }
+    ],
+    "date": "2023-01-11T13:44:51.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebd6a01dc12d53bee2e79",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bebd6a01dc12d53bee2e7a"
+      }
+    ],
+    "date": "2023-01-11T13:45:14.586Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebda001dc12d53bee2e7c",
+    "medications": [
+      {
+        "medicine": "clarithromycin 500mg",
+        "quantity": 7,
+        "_id": "63bebda001dc12d53bee2e7d"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebda001dc12d53bee2e7e"
+      },
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bebda001dc12d53bee2e7f"
+      },
+      {
+        "medicine": "metoclopramide 10mg tabs",
+        "quantity": 10,
+        "_id": "63bebda001dc12d53bee2e80"
+      }
+    ],
+    "date": "2023-01-11T13:46:08.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebde601dc12d53bee2e82",
+    "medications": [
+      {
+        "medicine": "tobramycin drops",
+        "quantity": 1,
+        "_id": "63bebde601dc12d53bee2e83"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bebde601dc12d53bee2e84"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebde601dc12d53bee2e85"
+      },
+      {
+        "medicine": "ascorbic acid",
+        "quantity": 10,
+        "_id": "63bebde601dc12d53bee2e86"
+      },
+      {
+        "medicine": "diclofenac gel",
+        "quantity": 1,
+        "_id": "63bebde601dc12d53bee2e87"
+      }
+    ],
+    "date": "2023-01-11T13:47:18.441Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebe1201dc12d53bee2e89",
+    "medications": [
+      {
+        "medicine": "bbe susp",
+        "quantity": 1,
+        "_id": "63bebe1201dc12d53bee2e8a"
+      },
+      {
+        "medicine": "betamethasone cream",
+        "quantity": 1,
+        "_id": "63bebe1201dc12d53bee2e8b"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bebe1201dc12d53bee2e8c"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bebe1201dc12d53bee2e8d"
+      }
+    ],
+    "date": "2023-01-11T13:48:02.483Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebe3a01dc12d53bee2e8f",
+    "medications": [
+      {
+        "medicine": "hydrocortisone 100mg",
+        "quantity": 2,
+        "_id": "63bebe3a01dc12d53bee2e90"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bebe3a01dc12d53bee2e91"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebe3a01dc12d53bee2e92"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63bebe3a01dc12d53bee2e93"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bebe3a01dc12d53bee2e94"
+      }
+    ],
+    "date": "2023-01-11T13:48:42.760Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebe6a01dc12d53bee2e96",
+    "medications": [
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63bebe6a01dc12d53bee2e97"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bebe6a01dc12d53bee2e98"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebe6a01dc12d53bee2e99"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bebe6a01dc12d53bee2e9a"
+      }
+    ],
+    "date": "2023-01-11T13:49:30.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebe8301dc12d53bee2e9c",
+    "medications": [
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bebe8301dc12d53bee2e9d"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 8,
+        "_id": "63bebe8301dc12d53bee2e9e"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebe8301dc12d53bee2e9f"
+      }
+    ],
+    "date": "2023-01-11T13:49:55.245Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebe9a01dc12d53bee2ea1",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 5,
+        "_id": "63bebe9a01dc12d53bee2ea2"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebe9a01dc12d53bee2ea3"
+      }
+    ],
+    "date": "2023-01-11T13:50:18.291Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebf3601dc12d53bee2ea5",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bebf3601dc12d53bee2ea6"
+      }
+    ],
+    "date": "2023-01-11T13:52:54.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebf9501dc12d53bee2ea8",
+    "medications": [
+      {
+        "medicine": "relcer gel",
+        "quantity": 1,
+        "_id": "63bebf9501dc12d53bee2ea9"
+      },
+      {
+        "medicine": "lactulose solution",
+        "quantity": 1,
+        "_id": "63bebf9501dc12d53bee2eaa"
+      }
+    ],
+    "date": "2023-01-11T13:54:29.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebfcc01dc12d53bee2eac",
+    "medications": [
+      {
+        "medicine": "tetanus vaccine",
+        "quantity": 1,
+        "_id": "63bebfcc01dc12d53bee2ead"
+      },
+      {
+        "medicine": "clarithromycin 500mg",
+        "quantity": 7,
+        "_id": "63bebfcc01dc12d53bee2eae"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bebfcc01dc12d53bee2eaf"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63bebfcc01dc12d53bee2eb0"
+      }
+    ],
+    "date": "2023-01-11T13:55:24.316Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebfe801dc12d53bee2eb2",
+    "medications": [
+      {
+        "medicine": "griseofulvin 500mg tab",
+        "quantity": 10,
+        "_id": "63bebfe801dc12d53bee2eb3"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bebfe801dc12d53bee2eb4"
+      },
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bebfe801dc12d53bee2eb5"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bebfe801dc12d53bee2eb6"
+      }
+    ],
+    "date": "2023-01-11T13:55:52.800Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bebff701dc12d53bee2eb8",
+    "medications": [
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bebff701dc12d53bee2eb9"
+      },
+      {
+        "medicine": "carofit",
+        "quantity": 10,
+        "_id": "63bebff701dc12d53bee2eba"
+      }
+    ],
+    "date": "2023-01-11T13:56:07.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec01201dc12d53bee2ebc",
+    "medications": [
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63bec01201dc12d53bee2ebd"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bec01201dc12d53bee2ebe"
+      },
+      {
+        "medicine": "pregabalin 75mg",
+        "quantity": 10,
+        "_id": "63bec01201dc12d53bee2ebf"
+      }
+    ],
+    "date": "2023-01-11T13:56:34.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec03601dc12d53bee2ec1",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 1,
+        "_id": "63bec03601dc12d53bee2ec2"
+      },
+      {
+        "medicine": "doxycycline 100mg",
+        "quantity": 14,
+        "_id": "63bec03601dc12d53bee2ec3"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bec03601dc12d53bee2ec4"
+      }
+    ],
+    "date": "2023-01-11T13:57:10.698Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec08301dc12d53bee2ec6",
+    "medications": [
+      {
+        "medicine": "ceftriaxone 1g",
+        "quantity": 1,
+        "_id": "63bec08301dc12d53bee2ec7"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bec08301dc12d53bee2ec8"
+      },
+      {
+        "medicine": "ringer lactate 0.5l",
+        "quantity": 1,
+        "_id": "63bec08301dc12d53bee2ec9"
+      },
+      {
+        "medicine": "dns drip",
+        "quantity": 1,
+        "_id": "63bec08301dc12d53bee2eca"
+      },
+      {
+        "medicine": "vitamin b-complex injection",
+        "quantity": 1,
+        "_id": "63bec08301dc12d53bee2ecb"
+      }
+    ],
+    "date": "2023-01-11T13:58:27.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec09501dc12d53bee2ecd",
+    "medications": [
+      {
+        "medicine": "meloxicam 15mg",
+        "quantity": 5,
+        "_id": "63bec09501dc12d53bee2ece"
+      }
+    ],
+    "date": "2023-01-11T13:58:45.633Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec0ae01dc12d53bee2ed0",
+    "medications": [
+      {
+        "medicine": "doxycycline 100mg",
+        "quantity": 10,
+        "_id": "63bec0ae01dc12d53bee2ed1"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bec0ae01dc12d53bee2ed2"
+      },
+      {
+        "medicine": "anusol ointment",
+        "quantity": 1,
+        "_id": "63bec0ae01dc12d53bee2ed3"
+      }
+    ],
+    "date": "2023-01-11T13:59:10.793Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec0c301dc12d53bee2ed5",
+    "medications": [
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bec0c301dc12d53bee2ed6"
+      },
+      {
+        "medicine": "anusol ointment",
+        "quantity": 1,
+        "_id": "63bec0c301dc12d53bee2ed7"
+      }
+    ],
+    "date": "2023-01-11T13:59:31.093Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec0d301dc12d53bee2ed9",
+    "medications": [
+      {
+        "medicine": "ciprofloxacin 500mg",
+        "quantity": 10,
+        "_id": "63bec0d301dc12d53bee2eda"
+      },
+      {
+        "medicine": "clotrimazole cream",
+        "quantity": 1,
+        "_id": "63bec0d301dc12d53bee2edb"
+      }
+    ],
+    "date": "2023-01-11T13:59:47.619Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec0dd01dc12d53bee2edd",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 20,
+        "_id": "63bec0dd01dc12d53bee2ede"
+      }
+    ],
+    "date": "2023-01-11T13:59:57.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec40601dc12d53bee2ee0",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bec40601dc12d53bee2ee1"
+      }
+    ],
+    "date": "2023-01-11T14:13:26.762Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bec43e01dc12d53bee2ee3",
+    "medications": [
+      {
+        "medicine": "tetanus vaccine",
+        "quantity": 1,
+        "_id": "63bec43e01dc12d53bee2ee4"
+      },
+      {
+        "medicine": "flucamox caps",
+        "quantity": 10,
+        "_id": "63bec43e01dc12d53bee2ee5"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bec43e01dc12d53bee2ee6"
+      }
+    ],
+    "date": "2023-01-11T14:14:22.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "63becf4201dc12d53bee2ee8",
+    "medications": [
+      {
+        "medicine": "tetanus vaccine",
+        "quantity": 1,
+        "_id": "63becf4201dc12d53bee2ee9"
+      },
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63becf4201dc12d53bee2eea"
+      }
+    ],
+    "date": "2023-01-11T15:01:22.124Z",
+    "__v": 0
+  },
+  {
+    "_id": "63becf4b01dc12d53bee2eec",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63becf4b01dc12d53bee2eed"
+      }
+    ],
+    "date": "2023-01-11T15:01:31.937Z",
+    "__v": 0
+  },
+  {
+    "_id": "63becf8601dc12d53bee2eef",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63becf8601dc12d53bee2ef0"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63becf8601dc12d53bee2ef1"
+      },
+      {
+        "medicine": "amoxiclav 625mg",
+        "quantity": 10,
+        "_id": "63becf8601dc12d53bee2ef2"
+      },
+      {
+        "medicine": "toff-plus",
+        "quantity": 10,
+        "_id": "63becf8601dc12d53bee2ef3"
+      }
+    ],
+    "date": "2023-01-11T15:02:30.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "63becfb201dc12d53bee2ef5",
+    "medications": [
+      {
+        "medicine": "dexaneo drops",
+        "quantity": 1,
+        "_id": "63becfb201dc12d53bee2ef6"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63becfb201dc12d53bee2ef7"
+      }
+    ],
+    "date": "2023-01-11T15:03:14.186Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bedb1901dc12d53bee2ef9",
+    "medications": [
+      {
+        "medicine": "dexaneo drops",
+        "quantity": 1,
+        "_id": "63bedb1901dc12d53bee2efa"
+      },
+      {
+        "medicine": "mupirocin ointment",
+        "quantity": 2,
+        "_id": "63bedb1901dc12d53bee2efb"
+      }
+    ],
+    "date": "2023-01-11T15:51:53.799Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bede4801dc12d53bee2efd",
+    "medications": [
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bede4801dc12d53bee2efe"
+      }
+    ],
+    "date": "2023-01-11T16:05:28.130Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bede5801dc12d53bee2f00",
+    "medications": [
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bede5801dc12d53bee2f01"
+      },
+      {
+        "medicine": "dexamethasone drops",
+        "quantity": 1,
+        "_id": "63bede5801dc12d53bee2f02"
+      }
+    ],
+    "date": "2023-01-11T16:05:44.897Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bede7501dc12d53bee2f04",
+    "medications": [
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bede7501dc12d53bee2f05"
+      },
+      {
+        "medicine": "zecuf lozenges",
+        "quantity": 4,
+        "_id": "63bede7501dc12d53bee2f06"
+      },
+      {
+        "medicine": "ibuprofen 200mg",
+        "quantity": 10,
+        "_id": "63bede7501dc12d53bee2f07"
+      }
+    ],
+    "date": "2023-01-11T16:06:13.357Z",
+    "__v": 0
+  },
+  {
+    "_id": "63bede9d01dc12d53bee2f09",
+    "medications": [
+      {
+        "medicine": "flamar",
+        "quantity": 10,
+        "_id": "63bede9d01dc12d53bee2f0a"
+      },
+      {
+        "medicine": "funbact-a cream",
+        "quantity": 1,
+        "_id": "63bede9d01dc12d53bee2f0b"
+      },
+      {
+        "medicine": "flucamox caps",
+        "quantity": 16,
+        "_id": "63bede9d01dc12d53bee2f0c"
+      },
+      {
+        "medicine": "cetirizine 10mg tab",
+        "quantity": 5,
+        "_id": "63bede9d01dc12d53bee2f0d"
+      }
+    ],
+    "date": "2023-01-11T16:06:53.902Z",
+    "__v": 0
   }
 ]
